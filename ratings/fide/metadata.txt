@@ -1,0 +1,610 @@
+Sep 2022: Standard rating:  TXT (28 Sep 2022, Sz: 8.80 MB) | XML (28 Sep 2022, Sz: 9.41 MB)
+Sep 2022: Rapid rating:  TXT (28 Sep 2022, Sz: 5.28 MB) | XML(28 Sep 2022, Sz: 5.62 MB)
+Sep 2022: Blitz rating:  TXT (28 Sep 2022, Sz: 3.84 MB) | XML (28 Sep 2022, Sz: 3.84 MB)
+
+Aug 2022: Standard rating:  TXT (29 Aug 2022, Sz: 8.72 MB) | XML (29 Aug 2022, Sz: 9.34 MB)
+Aug 2022: Rapid rating:  TXT (29 Aug 2022, Sz: 5.21 MB) | XML(29 Aug 2022, Sz: 5.54 MB)
+Aug 2022: Blitz rating:  TXT (31 Jul 2022, Sz: 3.78 MB) | XML (31 Jul 2022, Sz: 3.78 MB)
+
+Jul 2022: Standard rating:  TXT (31 Jul 2022, Sz: 8.66 MB) | XML (31 Jul 2022, Sz: 9.27 MB)
+Jul 2022: Rapid rating:  TXT (01 Jul 2022, Sz: 5.14 MB) | XML(01 Jul 2022, Sz: 5.47 MB)
+Jul 2022: Blitz rating:  TXT (31 Jul 2022, Sz: 3.71 MB) | XML (31 Jul 2022, Sz: 3.71 MB)
+
+Jun 2022: Standard rating:  TXT (30 Jun 2022, Sz: 8.62 MB) | XML (30 Jun 2022, Sz: 9.23 MB)
+Jun 2022: Rapid rating:  TXT (30 Jun 2022, Sz: 5.08 MB) | XML(30 Jun 2022, Sz: 5.41 MB)
+Jun 2022: Blitz rating:  TXT (30 Jun 2022, Sz: 3.68 MB) | XML (30 Jun 2022, Sz: 3.68 MB)
+
+May 2022: Standard rating:  TXT (30 Apr 2022, Sz: 8.58 MB) | XML (30 Apr 2022, Sz: 9.19 MB)
+May 2022: Rapid rating:  TXT (30 Apr 2022, Sz: 4.98 MB) | XML(30 Apr 2022, Sz: 5.30 MB)
+May 2022: Blitz rating:  TXT (30 Apr 2022, Sz: 3.61 MB) | XML (30 Apr 2022, Sz: 3.61 MB)
+
+Apr 2022: Standard rating:  TXT (12 Apr 2022, Sz: 8.51 MB) | XML (12 Apr 2022, Sz: 9.12 MB)
+Apr 2022: Rapid rating:  TXT (12 Apr 2022, Sz: 4.92 MB) | XML(12 Apr 2022, Sz: 5.23 MB)
+Apr 2022: Blitz rating:  TXT (12 Apr 2022, Sz: 3.56 MB) | XML (12 Apr 2022, Sz: 3.56 MB)
+
+Mar 2022: Standard rating:  TXT (15 Mar 2022, Sz: 8.43 MB) | XML (15 Mar 2022, Sz: 9.03 MB)
+Mar 2022: Rapid rating:  TXT (15 Mar 2022, Sz: 4.85 MB) | XML(15 Mar 2022, Sz: 5.15 MB)
+Mar 2022: Blitz rating:  TXT (15 Mar 2022, Sz: 3.52 MB) | XML (15 Mar 2022, Sz: 3.52 MB)
+
+Feb 2022: Standard rating:  TXT (28 Feb 2022, Sz: 8.39 MB) | XML (28 Feb 2022, Sz: 8.98 MB)
+Feb 2022: Rapid rating:  TXT (28 Feb 2022, Sz: 4.82 MB) | XML(28 Feb 2022, Sz: 5.12 MB)
+Feb 2022: Blitz rating:  TXT (28 Feb 2022, Sz: 3.50 MB) | XML (28 Feb 2022, Sz: 3.50 MB)
+
+Jan 2022: Standard rating:  TXT (31 Jan 2022, Sz: 8.37 MB) | XML (31 Jan 2022, Sz: 8.96 MB)
+Jan 2022: Rapid rating:  TXT (31 Jan 2022, Sz: 4.79 MB) | XML(31 Jan 2022, Sz: 5.10 MB)
+Jan 2022: Blitz rating:  TXT (31 Jan 2022, Sz: 3.47 MB) | XML (31 Jan 2022, Sz: 3.47 MB)
+
+Dec 2021: Standard rating:  TXT (31 Dec 2021, Sz: 8.33 MB) | XML (31 Dec 2021, Sz: 8.92 MB)
+Dec 2021: Rapid rating:  TXT (31 Dec 2021, Sz: 4.73 MB) | XML(31 Dec 2021, Sz: 5.03 MB)
+Dec 2021: Blitz rating:  TXT (31 Dec 2021, Sz: 3.42 MB) | XML (31 Dec 2021, Sz: 3.42 MB)
+
+Nov 2021: Standard rating:  TXT (30 Nov 2021, Sz: 8.27 MB) | XML (30 Nov 2021, Sz: 8.85 MB)
+Nov 2021: Rapid rating:  TXT (30 Nov 2021, Sz: 4.65 MB) | XML(30 Nov 2021, Sz: 4.95 MB)
+Nov 2021: Blitz rating:  TXT (30 Nov 2021, Sz: 3.39 MB) | XML (30 Nov 2021, Sz: 3.39 MB)
+
+Oct 2021: Standard rating:  TXT (30 Oct 2021, Sz: 8.22 MB) | XML (30 Oct 2021, Sz: 8.79 MB)
+Oct 2021: Rapid rating:  TXT (30 Oct 2021, Sz: 4.60 MB) | XML(30 Oct 2021, Sz: 4.90 MB)
+Oct 2021: Blitz rating:  TXT (30 Oct 2021, Sz: 3.36 MB) | XML (30 Oct 2021, Sz: 3.36 MB)
+
+Sep 2021: Standard rating:  TXT (30 Sep 2021, Sz: 8.19 MB) | XML (30 Sep 2021, Sz: 8.77 MB)
+Sep 2021: Rapid rating:  TXT (30 Sep 2021, Sz: 4.55 MB) | XML(30 Sep 2021, Sz: 4.83 MB)
+Sep 2021: Blitz rating:  TXT (30 Sep 2021, Sz: 3.33 MB) | XML (30 Sep 2021, Sz: 3.33 MB)
+
+Aug 2021: Standard rating:  TXT (30 Aug 2021, Sz: 8.14 MB) | XML (30 Aug 2021, Sz: 8.71 MB)
+Aug 2021: Rapid rating:  TXT (30 Aug 2021, Sz: 4.50 MB) | XML(30 Aug 2021, Sz: 4.79 MB)
+Aug 2021: Blitz rating:  TXT (30 Aug 2021, Sz: 3.29 MB) | XML (30 Aug 2021, Sz: 3.29 MB)
+
+Jul 2021: Standard rating:  TXT (31 Jul 2021, Sz: 8.11 MB) | XML (31 Jul 2021, Sz: 8.68 MB)
+Jul 2021: Rapid rating:  TXT (31 Jul 2021, Sz: 4.46 MB) | XML(31 Jul 2021, Sz: 4.75 MB)
+Jul 2021: Blitz rating:  TXT (31 Jul 2021, Sz: 3.26 MB) | XML (31 Jul 2021, Sz: 3.26 MB)
+
+Jun 2021: Standard rating:  TXT (30 Jun 2021, Sz: 8.06 MB) | XML (30 Jun 2021, Sz: 8.62 MB)
+Jun 2021: Rapid rating:  TXT (30 Jun 2021, Sz: 4.43 MB) | XML(30 Jun 2021, Sz: 4.70 MB)
+Jun 2021: Blitz rating:  TXT (30 Jun 2021, Sz: 3.24 MB) | XML (30 Jun 2021, Sz: 3.24 MB)
+
+May 2021: Standard rating:  TXT (31 May 2021, Sz: 8.05 MB) | XML (31 May 2021, Sz: 8.61 MB)
+May 2021: Rapid rating:  TXT (31 May 2021, Sz: 4.41 MB) | XML(31 May 2021, Sz: 4.68 MB)
+May 2021: Blitz rating:  TXT (31 May 2021, Sz: 3.22 MB) | XML (31 May 2021, Sz: 3.22 MB)
+
+Apr 2021: Standard rating:  TXT (30 Apr 2021, Sz: 8.02 MB) | XML (30 Apr 2021, Sz: 8.58 MB)
+Apr 2021: Rapid rating:  TXT (30 Apr 2021, Sz: 4.38 MB) | XML(30 Apr 2021, Sz: 4.66 MB)
+Apr 2021: Blitz rating:  TXT (30 Apr 2021, Sz: 3.21 MB) | XML (30 Apr 2021, Sz: 3.21 MB)
+
+Mar 2021: Standard rating:  TXT (30 Mar 2021, Sz: 8.02 MB) | XML (30 Mar 2021, Sz: 8.57 MB)
+Mar 2021: Rapid rating:  TXT (30 Mar 2021, Sz: 4.38 MB) | XML(30 Mar 2021, Sz: 4.65 MB)
+Mar 2021: Blitz rating:  TXT (30 Mar 2021, Sz: 3.21 MB) | XML (30 Mar 2021, Sz: 3.21 MB)
+
+Feb 2021: Standard rating:  TXT (28 Feb 2021, Sz: 8.02 MB) | XML (28 Feb 2021, Sz: 8.57 MB)
+Feb 2021: Rapid rating:  TXT (28 Feb 2021, Sz: 4.36 MB) | XML(28 Feb 2021, Sz: 4.63 MB)
+Feb 2021: Blitz rating:  TXT (28 Feb 2021, Sz: 3.21 MB) | XML (28 Feb 2021, Sz: 3.21 MB)
+
+Jan 2021: Standard rating:  TXT (31 Jan 2021, Sz: 8.01 MB) | XML (31 Jan 2021, Sz: 8.57 MB)
+Jan 2021: Rapid rating:  TXT (31 Jan 2021, Sz: 4.36 MB) | XML(31 Jan 2021, Sz: 4.63 MB)
+Jan 2021: Blitz rating:  TXT (31 Jan 2021, Sz: 3.21 MB) | XML (31 Jan 2021, Sz: 3.21 MB)
+
+Dec 2020: Standard rating:  TXT (30 Dec 2020, Sz: 8.00 MB) | XML (30 Dec 2020, Sz: 8.55 MB)
+Dec 2020: Rapid rating:  TXT (30 Dec 2020, Sz: 4.35 MB) | XML(30 Dec 2020, Sz: 4.62 MB)
+Dec 2020: Blitz rating:  TXT (30 Dec 2020, Sz: 3.20 MB) | XML (30 Dec 2020, Sz: 3.20 MB)
+
+Nov 2020: Standard rating:  TXT (30 Nov 2020, Sz: 8.01 MB) | XML (30 Nov 2020, Sz: 8.57 MB)
+Nov 2020: Rapid rating:  TXT (30 Nov 2020, Sz: 4.34 MB) | XML(30 Nov 2020, Sz: 4.61 MB)
+Nov 2020: Blitz rating:  TXT (30 Nov 2020, Sz: 3.19 MB) | XML (30 Nov 2020, Sz: 3.19 MB)
+
+Oct 2020: Standard rating:  TXT (30 Oct 2020, Sz: 7.99 MB) | XML (30 Oct 2020, Sz: 8.54 MB)
+Oct 2020: Rapid rating:  TXT (30 Oct 2020, Sz: 4.33 MB) | XML(30 Oct 2020, Sz: 4.60 MB)
+Oct 2020: Blitz rating:  TXT (30 Oct 2020, Sz: 3.18 MB) | XML (30 Oct 2020, Sz: 3.18 MB)
+
+Sep 2020: Standard rating:  TXT (29 Sep 2020, Sz: 7.98 MB) | XML (29 Sep 2020, Sz: 8.53 MB)
+Sep 2020: Rapid rating:  TXT (29 Sep 2020, Sz: 4.31 MB) | XML(29 Sep 2020, Sz: 4.58 MB)
+Sep 2020: Blitz rating:  TXT (29 Sep 2020, Sz: 3.18 MB) | XML (29 Sep 2020, Sz: 3.18 MB)
+
+Aug 2020: Standard rating:  TXT (30 Aug 2020, Sz: 7.96 MB) | XML (30 Aug 2020, Sz: 8.51 MB)
+Aug 2020: Rapid rating:  TXT (30 Aug 2020, Sz: 4.30 MB) | XML(30 Aug 2020, Sz: 4.56 MB)
+Aug 2020: Blitz rating:  TXT (30 Aug 2020, Sz: 3.16 MB) | XML (30 Aug 2020, Sz: 3.16 MB)
+
+Jul 2020: Standard rating:  TXT (30 Jul 2020, Sz: 7.96 MB) | XML (30 Jul 2020, Sz: 8.51 MB)
+Jul 2020: Rapid rating:  TXT (30 Jul 2020, Sz: 4.29 MB) | XML(30 Jul 2020, Sz: 4.56 MB)
+Jul 2020: Blitz rating:  TXT (30 Jul 2020, Sz: 3.16 MB) | XML (30 Jul 2020, Sz: 3.16 MB)
+
+Jun 2020: Standard rating:  TXT (29 Jun 2020, Sz: 7.95 MB) | XML (29 Jun 2020, Sz: 8.50 MB)
+Jun 2020: Rapid rating:  TXT (29 Jun 2020, Sz: 4.29 MB) | XML(29 Jun 2020, Sz: 4.55 MB)
+Jun 2020: Blitz rating:  TXT (29 Jun 2020, Sz: 3.16 MB) | XML (29 Jun 2020, Sz: 3.16 MB)
+
+May 2020: Standard rating:  TXT (30 May 2020, Sz: 7.95 MB) | XML (30 May 2020, Sz: 8.50 MB)
+May 2020: Rapid rating:  TXT (30 May 2020, Sz: 4.29 MB) | XML(30 May 2020, Sz: 4.55 MB)
+May 2020: Blitz rating:  TXT (30 May 2020, Sz: 3.16 MB) | XML (30 May 2020, Sz: 3.16 MB)
+
+Apr 2020: Standard rating:  TXT (29 Apr 2020, Sz: 8.02 MB) | XML (29 Apr 2020, Sz: 8.59 MB)
+Apr 2020: Rapid rating:  TXT (29 Apr 2020, Sz: 4.31 MB) | XML(29 Apr 2020, Sz: 4.58 MB)
+Apr 2020: Blitz rating:  TXT (29 Apr 2020, Sz: 3.17 MB) | XML (29 Apr 2020, Sz: 3.17 MB)
+
+Mar 2020: Standard rating:  TXT (31 Mar 2020, Sz: 8.01 MB) | XML (31 Mar 2020, Sz: 8.58 MB)
+Mar 2020: Rapid rating:  TXT (31 Mar 2020, Sz: 4.31 MB) | XML(31 Mar 2020, Sz: 4.58 MB)
+Mar 2020: Blitz rating:  TXT (31 Mar 2020, Sz: 3.17 MB) | XML (31 Mar 2020, Sz: 3.17 MB)
+
+Feb 2020: Standard rating:  TXT (27 Feb 2020, Sz: 7.97 MB) | XML (27 Feb 2020, Sz: 8.54 MB)
+Feb 2020: Rapid rating:  TXT (28 Feb 2020, Sz: 4.27 MB) | XML(28 Feb 2020, Sz: 4.55 MB)
+Feb 2020: Blitz rating:  TXT (29 Feb 2020, Sz: 3.15 MB) | XML (29 Feb 2020, Sz: 3.15 MB)
+
+Jan 2020: Standard rating:  TXT (31 Jan 2020, Sz: 7.91 MB) | XML (31 Jan 2020, Sz: 8.48 MB)
+Jan 2020: Rapid rating:  TXT (31 Jan 2020, Sz: 4.21 MB) | XML(31 Jan 2020, Sz: 4.49 MB)
+Jan 2020: Blitz rating:  TXT (31 Jan 2020, Sz: 3.12 MB) | XML (31 Jan 2020, Sz: 3.12 MB)
+
+Dec 2019: Standard rating:  TXT (31 Dec 2019, Sz: 7.86 MB) | XML (31 Dec 2019, Sz: 8.42 MB)
+Dec 2019: Rapid rating:  TXT (31 Dec 2019, Sz: 4.15 MB) | XML(31 Dec 2019, Sz: 4.42 MB)
+Dec 2019: Blitz rating:  TXT (31 Dec 2019, Sz: 3.06 MB) | XML (31 Dec 2019, Sz: 3.06 MB)
+
+Nov 2019: Standard rating:  TXT (30 Nov 2019, Sz: 7.80 MB) | XML (30 Nov 2019, Sz: 8.35 MB)
+Nov 2019: Rapid rating:  TXT (30 Nov 2019, Sz: 4.09 MB) | XML(30 Nov 2019, Sz: 4.35 MB)
+Nov 2019: Blitz rating:  TXT (30 Nov 2019, Sz: 3.01 MB) | XML (30 Nov 2019, Sz: 3.01 MB)
+
+Oct 2019: Standard rating:  TXT (30 Oct 2019, Sz: 7.72 MB) | XML (30 Oct 2019, Sz: 8.26 MB)
+Oct 2019: Rapid rating:  TXT (30 Oct 2019, Sz: 4.01 MB) | XML(30 Oct 2019, Sz: 4.27 MB)
+Oct 2019: Blitz rating:  TXT (30 Oct 2019, Sz: 2.98 MB) | XML (30 Oct 2019, Sz: 2.98 MB)
+
+Sep 2019: Standard rating:  TXT (30 Sep 2019, Sz: 7.69 MB) | XML (30 Sep 2019, Sz: 8.24 MB)
+Sep 2019: Rapid rating:  TXT (30 Sep 2019, Sz: 3.93 MB) | XML(30 Sep 2019, Sz: 4.18 MB)
+Sep 2019: Blitz rating:  TXT (30 Sep 2019, Sz: 2.94 MB) | XML (30 Sep 2019, Sz: 2.94 MB)
+
+Aug 2019: Standard rating:  TXT (31 Aug 2019, Sz: 7.64 MB) | XML (31 Aug 2019, Sz: 8.18 MB)
+Aug 2019: Rapid rating:  TXT (31 Aug 2019, Sz: 3.86 MB) | XML(31 Aug 2019, Sz: 4.11 MB)
+Aug 2019: Blitz rating:  TXT (31 Aug 2019, Sz: 2.86 MB) | XML (31 Aug 2019, Sz: 2.86 MB)
+
+Jul 2019: Standard rating:  TXT (31 Jul 2019, Sz: 7.57 MB) | XML (31 Jul 2019, Sz: 8.11 MB)
+Jul 2019: Rapid rating:  TXT (31 Jul 2019, Sz: 3.81 MB) | XML(31 Jul 2019, Sz: 4.06 MB)
+Jul 2019: Blitz rating:  TXT (31 Jul 2019, Sz: 2.80 MB) | XML (31 Jul 2019, Sz: 2.80 MB)
+
+Jun 2019: Standard rating:  TXT (30 Jun 2019, Sz: 7.52 MB) | XML (30 Jun 2019, Sz: 8.05 MB)
+Jun 2019: Rapid rating:  TXT (30 Jun 2019, Sz: 3.78 MB) | XML(30 Jun 2019, Sz: 4.03 MB)
+Jun 2019: Blitz rating:  TXT (30 Jun 2019, Sz: 2.78 MB) | XML (30 Jun 2019, Sz: 2.78 MB)
+
+May 2019: Standard rating:  TXT (31 May 2019, Sz: 7.51 MB) | XML (31 May 2019, Sz: 8.05 MB)
+May 2019: Rapid rating:  TXT (31 May 2019, Sz: 3.66 MB) | XML(31 May 2019, Sz: 3.90 MB)
+May 2019: Blitz rating:  TXT (31 May 2019, Sz: 2.70 MB) | XML (31 May 2019, Sz: 2.70 MB)
+
+Apr 2019: Standard rating:  TXT (30 Apr 2019, Sz: 7.42 MB) | XML (30 Apr 2019, Sz: 7.96 MB)
+Apr 2019: Rapid rating:  TXT (30 Apr 2019, Sz: 3.59 MB) | XML(30 Apr 2019, Sz: 3.83 MB)
+Apr 2019: Blitz rating:  TXT (30 Apr 2019, Sz: 2.66 MB) | XML (30 Apr 2019, Sz: 2.66 MB)
+
+Mar 2019: Standard rating:  TXT (31 Mar 2019, Sz: 7.35 MB) | XML (31 Mar 2019, Sz: 7.88 MB)
+Mar 2019: Rapid rating:  TXT (31 Mar 2019, Sz: 3.54 MB) | XML(31 Mar 2019, Sz: 3.77 MB)
+Mar 2019: Blitz rating:  TXT (31 Mar 2019, Sz: 2.62 MB) | XML (31 Mar 2019, Sz: 2.62 MB)
+
+Feb 2019: Standard rating:  TXT (28 Feb 2019, Sz: 7.32 MB) | XML (28 Feb 2019, Sz: 7.84 MB)
+Feb 2019: Rapid rating:  TXT (28 Feb 2019, Sz: 3.49 MB) | XML(28 Feb 2019, Sz: 3.72 MB)
+Feb 2019: Blitz rating:  TXT (28 Feb 2019, Sz: 2.60 MB) | XML (28 Feb 2019, Sz: 2.60 MB)
+
+Jan 2019: Standard rating:  TXT (31 Jan 2019, Sz: 7.26 MB) | XML (31 Jan 2019, Sz: 7.79 MB)
+Jan 2019: Rapid rating:  TXT (31 Jan 2019, Sz: 3.45 MB) | XML(31 Jan 2019, Sz: 3.68 MB)
+Jan 2019: Blitz rating:  TXT (31 Jan 2019, Sz: 2.57 MB) | XML (31 Jan 2019, Sz: 2.57 MB)
+
+Dec 2018: Standard rating:  TXT (31 Dec 2018, Sz: 7.21 MB) | XML (31 Dec 2018, Sz: 7.72 MB)
+Dec 2018: Rapid rating:  TXT (31 Dec 2018, Sz: 3.35 MB) | XML(31 Dec 2018, Sz: 3.57 MB)
+Dec 2018: Blitz rating:  TXT (31 Dec 2018, Sz: 2.49 MB) | XML (31 Dec 2018, Sz: 2.49 MB)
+
+Nov 2018: Standard rating:  TXT (30 Nov 2018, Sz: 7.14 MB) | XML (30 Nov 2018, Sz: 7.64 MB)
+Nov 2018: Rapid rating:  TXT (30 Nov 2018, Sz: 3.29 MB) | XML(30 Nov 2018, Sz: 3.50 MB)
+Nov 2018: Blitz rating:  TXT (30 Nov 2018, Sz: 2.46 MB) | XML (30 Nov 2018, Sz: 2.46 MB)
+
+Oct 2018: Standard rating:  TXT (31 Oct 2018, Sz: 7.06 MB) | XML (31 Oct 2018, Sz: 7.55 MB)
+Oct 2018: Rapid rating:  TXT (31 Oct 2018, Sz: 3.23 MB) | XML(31 Oct 2018, Sz: 3.44 MB)
+Oct 2018: Blitz rating:  TXT (31 Oct 2018, Sz: 2.40 MB) | XML (31 Oct 2018, Sz: 2.40 MB)
+
+Sep 2018: Standard rating:  TXT (30 Sep 2018, Sz: 7.04 MB) | XML (30 Sep 2018, Sz: 7.54 MB)
+Sep 2018: Rapid rating:  TXT (30 Sep 2018, Sz: 3.15 MB) | XML(30 Sep 2018, Sz: 3.36 MB)
+Sep 2018: Blitz rating:  TXT (30 Sep 2018, Sz: 2.40 MB) | XML (30 Sep 2018, Sz: 2.40 MB)
+
+Aug 2018: Standard rating:  TXT (31 Aug 2018, Sz: 7.00 MB) | XML (31 Aug 2018, Sz: 7.49 MB)
+Aug 2018: Rapid rating:  TXT (31 Aug 2018, Sz: 3.13 MB) | XML(31 Aug 2018, Sz: 3.33 MB)
+Aug 2018: Blitz rating:  TXT (31 Aug 2018, Sz: 2.37 MB) | XML (31 Aug 2018, Sz: 2.37 MB)
+
+Jul 2018: Standard rating:  TXT (31 Jul 2018, Sz: 6.92 MB) | XML (31 Jul 2018, Sz: 7.41 MB)
+Jul 2018: Rapid rating:  TXT (31 Jul 2018, Sz: 3.08 MB) | XML(31 Jul 2018, Sz: 3.29 MB)
+Jul 2018: Blitz rating:  TXT (31 Jul 2018, Sz: 2.33 MB) | XML (31 Jul 2018, Sz: 2.33 MB)
+
+Jun 2018: Standard rating:  TXT (29 Jun 2018, Sz: 6.89 MB) | XML (29 Jun 2018, Sz: 7.38 MB)
+Jun 2018: Rapid rating:  TXT (29 Jun 2018, Sz: 3.01 MB) | XML(29 Jun 2018, Sz: 3.21 MB)
+Jun 2018: Blitz rating:  TXT (29 Jun 2018, Sz: 2.27 MB) | XML (29 Jun 2018, Sz: 2.27 MB)
+
+Jun 2017: Standard rating:  TXT (30 Jun 2017, Sz: 6.22 MB) | XML (30 Jun 2017, Sz: 6.66 MB)
+Jun 2017: Rapid rating:  TXT (30 Jun 2017, Sz: 2.34 MB) | XML(30 Jun 2017, Sz: 2.49 MB)
+Jun 2017: Blitz rating:  TXT (30 Jun 2017, Sz: 1.81 MB) | XML (30 Jun 2017, Sz: 1.81 MB)
+
+May 2017: Standard rating:  TXT (31 May 2017, Sz: 6.18 MB) | XML (31 May 2017, Sz: 6.62 MB)
+May 2017: Rapid rating:  TXT (31 May 2017, Sz: 2.27 MB) | XML(31 May 2017, Sz: 2.42 MB)
+May 2017: Blitz rating:  TXT (31 May 2017, Sz: 1.77 MB) | XML (31 May 2017, Sz: 1.77 MB)
+
+Apr 2017: Standard rating:  TXT (30 Apr 2017, Sz: 6.11 MB) | XML (30 Apr 2017, Sz: 6.56 MB)
+Apr 2017: Rapid rating:  TXT (30 Apr 2017, Sz: 2.20 MB) | XML(30 Apr 2017, Sz: 2.35 MB)
+Apr 2017: Blitz rating:  TXT (30 Apr 2017, Sz: 1.72 MB) | XML (30 Apr 2017, Sz: 1.72 MB)
+
+Mar 2017: Standard rating:  TXT (31 Mar 2017, Sz: 6.03 MB) | XML (31 Mar 2017, Sz: 6.46 MB)
+Mar 2017: Rapid rating:  TXT (31 Mar 2017, Sz: 2.16 MB) | XML(31 Mar 2017, Sz: 2.31 MB)
+Mar 2017: Blitz rating:  TXT (31 Mar 2017, Sz: 1.71 MB) | XML (31 Mar 2017, Sz: 1.71 MB)
+
+Feb 2017: Standard rating:  TXT (28 Feb 2017, Sz: 5.99 MB) | XML (28 Feb 2017, Sz: 6.42 MB)
+Feb 2017: Rapid rating:  TXT (28 Feb 2017, Sz: 2.13 MB) | XML(28 Feb 2017, Sz: 2.27 MB)
+Feb 2017: Blitz rating:  TXT (28 Feb 2017, Sz: 1.68 MB) | XML (28 Feb 2017, Sz: 1.68 MB)
+
+Jan 2017: Standard rating:  TXT (30 Jan 2017, Sz: 5.93 MB) | XML (30 Jan 2017, Sz: 6.37 MB)
+Jan 2017: Rapid rating:  TXT (30 Jan 2017, Sz: 2.07 MB) | XML(30 Jan 2017, Sz: 2.21 MB)
+Jan 2017: Blitz rating:  TXT (30 Jan 2017, Sz: 1.66 MB) | XML (30 Jan 2017, Sz: 1.66 MB)
+
+Dec 2016: Standard rating:  TXT (31 Dec 2016, Sz: 5.85 MB) | XML (31 Dec 2016, Sz: 6.28 MB)
+Dec 2016: Rapid rating:  TXT (31 Dec 2016, Sz: 2.04 MB) | XML(31 Dec 2016, Sz: 2.18 MB)
+Dec 2016: Blitz rating:  TXT (31 Dec 2016, Sz: 1.62 MB) | XML (31 Dec 2016, Sz: 1.62 MB)
+
+Nov 2016: Standard rating:  TXT (29 Nov 2016, Sz: 5.79 MB) | XML (29 Nov 2016, Sz: 6.20 MB)
+Nov 2016: Rapid rating:  TXT (29 Nov 2016, Sz: 1.98 MB) | XML(29 Nov 2016, Sz: 2.11 MB)
+Nov 2016: Blitz rating:  TXT (29 Nov 2016, Sz: 1.57 MB) | XML (29 Nov 2016, Sz: 1.57 MB)
+
+Oct 2016: Standard rating:  TXT (31 Oct 2016, Sz: 5.71 MB) | XML (31 Oct 2016, Sz: 6.12 MB)
+Oct 2016: Rapid rating:  TXT (31 Oct 2016, Sz: 1.92 MB) | XML(31 Oct 2016, Sz: 2.06 MB)
+Oct 2016: Blitz rating:  TXT (31 Oct 2016, Sz: 1.54 MB) | XML (31 Oct 2016, Sz: 1.54 MB)
+
+Sep 2016: Standard rating:  TXT (29 Sep 2016, Sz: 5.68 MB) | XML (29 Sep 2016, Sz: 6.09 MB)
+Sep 2016: Rapid rating:  TXT (29 Sep 2016, Sz: 1.87 MB) | XML(29 Sep 2016, Sz: 2.00 MB)
+Sep 2016: Blitz rating:  TXT (29 Sep 2016, Sz: 1.51 MB) | XML (29 Sep 2016, Sz: 1.51 MB)
+
+Aug 2016: Standard rating:  TXT (31 Aug 2016, Sz: 5.61 MB) | XML (31 Aug 2016, Sz: 5.94 MB)
+Aug 2016: Rapid rating:  TXT (31 Aug 2016, Sz: 1.83 MB) | XML(31 Aug 2016, Sz: 1.93 MB)
+Aug 2016: Blitz rating:  TXT (31 Aug 2016, Sz: 1.46 MB) | XML (31 Aug 2016, Sz: 1.46 MB)
+
+Jul 2016: Standard rating:  TXT (25 Jul 2016, Sz: 5.53 MB) | XML (25 Jul 2016, Sz: 5.86 MB)
+Jul 2016: Rapid rating:  TXT (25 Jul 2016, Sz: 1.75 MB) | XML(25 Jul 2016, Sz: 1.84 MB)
+Jul 2016: Blitz rating:  TXT (25 Jul 2016, Sz: 1.39 MB) | XML (25 Jul 2016, Sz: 1.39 MB)
+
+Jun 2016: Standard rating:  TXT (30 Jun 2016, Sz: 5.50 MB) | XML (20 Jun 2016, Sz: 5.82 MB)
+Jun 2016: Rapid rating:  TXT (30 Jun 2016, Sz: 1.70 MB) | XML(30 Jun 2016, Sz: 1.80 MB)
+Jun 2016: Blitz rating:  TXT (30 Jun 2016, Sz: 1.35 MB) | XML (30 Jun 2016, Sz: 1.35 MB)
+
+Jun 2016: FIDE Online Arena (FOA) RBB rating:
+These rating lists incorporate over the board chess results and online chess results in FIDE Online Arena.
+Ratings from these lists cannot not be used for pairings or other purposes in over the board tournaments.
+
+  FOA Bullet rating TXT (08 Jun 2016, Sz: 0.09 MB)
+  FOA Rapid rating TXT (08 Jun 2016, Sz: 1.15 MB)
+  FOA Blitz rating TXT (08 Jun 2016, Sz: 0.95 MB)
+
+May 2016: Standard rating:  TXT (30 May 2016, Sz: 5.44 MB) | XML (30 May 2016, Sz: 5.77 MB)
+May 2016: Rapid rating:  TXT (30 May 2016, Sz: 1.68 MB) | XML(30 May 2016, Sz: 1.77 MB)
+May 2016: Blitz rating:  TXT (30 May 2016, Sz: 1.34 MB) | XML (30 May 2016, Sz: 1.34 MB)
+
+May 2016: FIDE Online Arena (FOA) RBB rating:
+These rating lists incorporate over the board chess results and online chess results in FIDE Online Arena.
+Ratings from these lists cannot not be used for pairings or other purposes in over the board tournaments.
+
+  FOA Bullet rating TXT (05 May 2016, Sz: 0.09 MB)
+  FOA Rapid rating TXT (05 May 2016, Sz: 1.14 MB)
+  FOA Blitz rating TXT (05 May 2016, Sz: 0.94 MB)
+
+Apr 2016: Standard rating:  TXT (27 Apr 2016, Sz: 5.38 MB) | XML (27 Apr 2016, Sz: 5.72 MB)
+Apr 2016: Rapid rating:  TXT (27 Apr 2016, Sz: 1.61 MB) | XML(27 Apr 2016, Sz: 1.70 MB)
+Apr 2016: Blitz rating:  TXT (27 Apr 2016, Sz: 1.29 MB) | XML (27 Apr 2016, Sz: 1.29 MB)
+
+Apr 2016: FIDE Online Arena (FOA) RBB rating:
+These rating lists incorporate over the board chess results and online chess results in FIDE Online Arena.
+Ratings from these lists cannot not be used for pairings or other purposes in over the board tournaments.
+
+  FOA Bullet rating TXT (22 Apr 2016, Sz: 0.09 MB)
+  FOA Rapid rating TXT (22 Apr 2016, Sz: 1.09 MB)
+  FOA Blitz rating TXT (22 Apr 2016, Sz: 0.92 MB)
+
+Mar 2016: Standard rating:  TXT (27 Mar 2016, Sz: 5.30 MB) | XML (27 Mar 2016, Sz: 5.62 MB)
+Mar 2016: Rapid rating:  TXT (27 Mar 2016, Sz: 1.53 MB) | XML(27 Mar 2016, Sz: 1.62 MB)
+Mar 2016: Blitz rating:  TXT (27 Mar 2016, Sz: 1.25 MB) | XML (27 Mar 2016, Sz: 1.25 MB)
+
+Mar 2016: FIDE Online Arena (FOA) RBB rating:
+These rating lists incorporate over the board chess results and online chess results in FIDE Online Arena.
+Ratings from these lists cannot not be used for pairings or other purposes in over the board tournaments.
+
+  FOA Bullet rating TXT (09 Mar 2016, Sz: 0.09 MB)
+  FOA Rapid rating TXT (09 Mar 2016, Sz: 1.04 MB)
+  FOA Blitz rating TXT (09 Mar 2016, Sz: 0.89 MB)
+
+Feb 2016: Standard rating:  TXT (28 Feb 2016, Sz: 5.23 MB) | XML (28 Feb 2016, Sz: 5.55 MB)
+Feb 2016: Rapid rating:  TXT (28 Feb 2016, Sz: 1.50 MB) | XML(28 Feb 2016, Sz: 1.58 MB)
+Feb 2016: Blitz rating:  TXT (28 Feb 2016, Sz: 1.23 MB) | XML (28 Feb 2016, Sz: 1.23 MB)
+
+Jan 2016: Standard rating:  TXT (31 Jan 2016, Sz: 5.18 MB) | XML (31 Jan 2016, Sz: 5.49 MB)
+Jan 2016: Rapid rating:  TXT (31 Jan 2016, Sz: 1.49 MB) | XML(31 Jan 2016, Sz: 1.57 MB)
+Jan 2016: Blitz rating:  TXT (31 Jan 2016, Sz: 1.23 MB) | XML (31 Jan 2016, Sz: 1.23 MB)
+
+Jan 2016: FIDE Online Arena (FOA) RBB rating:
+These rating lists incorporate over the board chess results and online chess results in FIDE Online Arena.
+Ratings from these lists cannot not be used for pairings or other purposes in over the board tournaments.
+
+  FOA Bullet rating TXT (25 Jan 2016, Sz: 0.04 MB)
+  FOA Rapid rating TXT (25 Jan 2016, Sz: 0.98 MB)
+  FOA Blitz rating TXT (25 Jan 2016, Sz: 0.82 MB)
+
+Dec 2015: Standard rating:  TXT (31 Dec 2015, Sz: 5.09 MB) | XML (31 Dec 2015, Sz: 5.40 MB)
+Dec 2015: Rapid rating:  TXT (31 Dec 2015, Sz: 1.40 MB) | XML(31 Dec 2015, Sz: 1.48 MB)
+Dec 2015: Blitz rating:  TXT (31 Dec 2015, Sz: 1.15 MB) | XML (31 Dec 2015, Sz: 1.15 MB)
+
+Nov 2015: Standard rating:  TXT (30 Nov 2015, Sz: 5.03 MB) | XML (30 Nov 2015, Sz: 5.34 MB)
+Nov 2015: Rapid rating:  TXT (30 Nov 2015, Sz: 1.38 MB) | XML(30 Nov 2015, Sz: 1.46 MB)
+Nov 2015: Blitz rating:  TXT (30 Nov 2015, Sz: 1.14 MB) | XML (30 Nov 2015, Sz: 1.14 MB)
+
+Oct 2015: Standard rating:  TXT (23 Oct 2015, Sz: 4.97 MB) | XML (23 Oct 2015, Sz: 5.26 MB)
+Oct 2015: Rapid rating:  TXT (23 Oct 2015, Sz: 1.30 MB) | XML(23 Oct 2015, Sz: 1.38 MB)
+Oct 2015: Blitz rating:  TXT (23 Oct 2015, Sz: 1.09 MB) | XML (23 Oct 2015, Sz: 1.09 MB)
+
+Sep 2015: Standard rating:  TXT (25 Sep 2015, Sz: 4.92 MB) | XML (25 Sep 2015, Sz: 5.22 MB)
+Sep 2015: Rapid rating:  TXT (25 Sep 2015, Sz: 1.26 MB) | XML(25 Sep 2015, Sz: 1.33 MB)
+Sep 2015: Blitz rating:  TXT (25 Sep 2015, Sz: 1.07 MB) | XML (25 Sep 2015, Sz: 1.07 MB)
+
+Aug 2015: Standard rating:  TXT (28 Aug 2015, Sz: 4.85 MB) | XML (28 Aug 2015, Sz: 5.14 MB)
+Aug 2015: Rapid rating:  TXT (28 Aug 2015, Sz: 1.24 MB) | XML(28 Aug 2015, Sz: 1.31 MB)
+Aug 2015: Blitz rating:  TXT (28 Aug 2015, Sz: 1.04 MB) | XML (28 Aug 2015, Sz: 1.04 MB)
+
+Jul 2015: Standard rating:  TXT (31 Jul 2015, Sz: 4.78 MB) | XML (31 Jul 2015, Sz: 5.06 MB)
+Jul 2015: Rapid rating:  TXT (31 Jul 2015, Sz: 1.18 MB) | XML(31 Jul 2015, Sz: 1.24 MB)
+Jul 2015: Blitz rating:  TXT (31 Jul 2015, Sz: 0.98 MB) | XML (31 Jul 2015, Sz: 0.98 MB)
+
+Jun 2015: Standard rating:  TXT (22 Jun 2015, Sz: 4.73 MB) | XML (22 Jun 2015, Sz: 5.02 MB)
+Jun 2015: Rapid rating:  TXT (22 Jun 2015, Sz: 1.15 MB) | XML(22 Jun 2015, Sz: 1.21 MB)
+Jun 2015: Blitz rating:  TXT (22 Jun 2015, Sz: 0.95 MB) | XML (22 Jun 2015, Sz: 0.95 MB)
+
+Jun 2015: FIDE Online Arena (FOA) RBB rating:
+These rating lists incorporate over the board chess results and online chess results in FIDE Online Arena.
+Ratings from these lists cannot not be used for pairings or other purposes in over the board tournaments.
+
+  FOA Bullet rating TXT (17 Jun 2015, Sz: 0.06 MB)
+  FOA Rapid rating TXT (17 Jun 2015, Sz: 0.75 MB)
+  FOA Blitz rating TXT (17 Jun 2015, Sz: 0.64 MB)
+
+
+May 2015: Standard rating:  TXT (25 May 2015, Sz: 4.68 MB) | XML (25 May 2015, Sz: 4.97 MB)
+May 2015: Rapid rating:  TXT (25 May 2015, Sz: 1.13 MB) | XML(15 May 2015, Sz: 1.19 MB)
+May 2015: Blitz rating:  TXT (25 May 2015, Sz: 0.94 MB) | XML (25 May 2015, Sz: 0.94 MB)
+
+May 2015: FIDE Online Arena (FOA) RBB rating:
+These rating lists incorporate over the board chess results and online chess results in FIDE Online Arena.
+Ratings from these lists cannot not be used for pairings or other purposes in over the board tournaments.
+
+  FOA Bullet rating TXT (15 May 2015, Sz: 0.04 MB)
+  FOA Rapid rating TXT (15 May 2015, Sz: 0.74 MB)
+  FOA Blitz rating TXT (15 May 2015, Sz: 0.63 MB)
+
+Apr 2015: Standard rating:  TXT (30 Apr 2015, Sz: 4.58 MB) | XML (30 Apr 2015, Sz: 4.86 MB)
+Apr 2015: Rapid rating:  TXT (30 Apr 2015, Sz: 1.10 MB) | XML(30 Apr 2015, Sz: 1.16 MB)
+Apr 2015: Blitz rating:  TXT (30 Apr 2015, Sz: 0.91 MB) | XML (30 Apr 2015, Sz: 0.91 MB)
+
+Mar 2015: Standard rating:  TXT (30 Mar 2015, Sz: 4.52 MB) | XML (30 Mar 2015, Sz: 4.79 MB)
+Mar 2015: Rapid rating:  TXT (30 Mar 2015, Sz: 1.07 MB) | XML(30 Mar 2015, Sz: 1.13 MB)
+Mar 2015: Blitz rating:  TXT (30 Mar 2015, Sz: 0.87 MB) | XML (30 Mar 2015, Sz: 0.87 MB)
+
+Feb 2015: Standard rating:  TXT (28 Feb 2015, Sz: 4.45 MB) | XML (28 Feb 2015, Sz: 4.74 MB)
+Feb 2015: Rapid rating:  TXT (28 Feb 2015, Sz: 1.04 MB) | XML(28 Feb 2015, Sz: 1.10 MB)
+Feb 2015: Blitz rating:  TXT (28 Feb 2015, Sz: 0.87 MB) | XML (28 Feb 2015, Sz: 0.87 MB)
+
+Jan 2015: Standard rating:  TXT (31 Jan 2015, Sz: 4.40 MB) | XML (31 Jan 2015, Sz: 4.69 MB)
+Jan 2015: Rapid rating:  TXT (31 Jan 2015, Sz: 1.03 MB) | XML(31 Jan 2015, Sz: 1.09 MB)
+Jan 2015: Blitz rating:  TXT (31 Jan 2015, Sz: 0.85 MB) | XML (31 Jan 2015, Sz: 0.85 MB)
+
+Dec 2014: Standard rating:  TXT (31 Dec 2014, Sz: 4.33 MB) | XML (31 Dec 2014, Sz: 4.61 MB)
+Dec 2014: Rapid rating:  TXT (31 Dec 2014, Sz: 0.99 MB) | XML(31 Dec 2014, Sz: 1.05 MB)
+Dec 2014: Blitz rating:  TXT (31 Dec 2014, Sz: 0.82 MB) | XML (31 Dec 2014, Sz: 0.82 MB)
+
+Nov 2014: Standard rating:  TXT (14 Nov 2014, Sz: 4.28 MB) | XML (14 Nov 2014, Sz: 4.56 MB)
+Nov 2014: Rapid rating:  TXT (14 Nov 2014, Sz: 0.93 MB) | XML(14 Nov 2014, Sz: 0.99 MB)
+Nov 2014: Blitz rating:  TXT (14 Nov 2014, Sz: 0.77 MB) | XML (14 Nov 2014, Sz: 0.77 MB)
+
+Oct 2014: Standard rating:  TXT (24 Oct 2014, Sz: 4.21 MB) | XML (24 Oct 2014, Sz: 4.49 MB)
+Oct 2014: Rapid rating:  TXT (24 Oct 2014, Sz: 0.92 MB) | XML(24 Oct 2014, Sz: 0.97 MB)
+Oct 2014: Blitz rating:  TXT (24 Oct 2014, Sz: 0.75 MB) | XML (24 Oct 2014, Sz: 0.75 MB)
+
+Sep 2014: Standard rating:  TXT (29 Sep 2014, Sz: 4.16 MB) | XML (29 Sep 2014, Sz: 4.43 MB)
+Sep 2014: Rapid rating:  TXT (29 Sep 2014, Sz: 0.88 MB) | XML(29 Sep 2014, Sz: 0.94 MB)
+Sep 2014: Blitz rating:  TXT (29 Sep 2014, Sz: 0.74 MB) | XML (29 Sep 2014, Sz: 0.74 MB)
+
+Aug 2014: Standard rating:  TXT (27 Aug 2014, Sz: 4.10 MB) | XML (27 Aug 2014, Sz: 4.37 MB)
+Aug 2014: Rapid rating:  TXT (27 Aug 2014, Sz: 0.85 MB) | XML(27 Aug 2014, Sz: 0.90 MB)
+Aug 2014: Blitz rating:  TXT (27 Aug 2014, Sz: 0.71 MB) | XML (27 Aug 2014, Sz: 0.71 MB)
+
+Jul 2014: Standard rating:  TXT (25 Jul 2014, Sz: 4.05 MB) | XML (24 Jul 2014, Sz: 4.31 MB)
+Jul 2014: Rapid rating:  TXT (25 Jul 2014, Sz: 0.81 MB) | XML(24 Jul 2014, Sz: 0.86 MB)
+Jul 2014: Blitz rating:  TXT (25 Jul 2014, Sz: 0.67 MB) | XML (25 Jul 2014, Sz: 0.67 MB)
+
+Jun 2014: Standard rating:  TXT (26 Jun 2014, Sz: 4.02 MB) | XML (26 Jun 2014, Sz: 4.28 MB)
+Jun 2014: Rapid rating:  TXT (26 Jun 2014, Sz: 0.80 MB) | XML(26 Jun 2014, Sz: 0.85 MB)
+Jun 2014: Blitz rating:  TXT (26 Jun 2014, Sz: 0.67 MB) | XML (26 Jun 2014, Sz: 0.67 MB)
+
+May 2014: Standard rating:  TXT (31 May 2014, Sz: 4.00 MB) | XML (31 May 2014, Sz: 4.27 MB)
+May 2014: Rapid rating:  TXT (31 May 2014, Sz: 0.77 MB) | XML(31 May 2014, Sz: 0.82 MB)
+May 2014: Blitz rating:  TXT (31 May 2014, Sz: 0.65 MB) | XML (31 May 2014, Sz: 0.65 MB)
+
+
+Apr 2014: Standard rating:  TXT (28 Apr 2014, Sz: 3.94 MB) | XML (28 Apr 2014, Sz: 4.20 MB)
+Apr 2014: Rapid rating:  TXT (28 Apr 2014, Sz: 0.74 MB) | XML(28 Apr 2014, Sz: 0.79 MB)
+Apr 2014: Blitz rating:  TXT (28 Apr 2014, Sz: 0.62 MB) | XML (28 Apr 2014, Sz: 0.62 MB)
+
+
+Mar 2014: Standard rating:  TXT (28 Mar 2014, Sz: 3.88 MB) | XML (28 Mar 2014, Sz: 4.14 MB)
+Mar 2014: Rapid rating:  TXT (28 Mar 2014, Sz: 0.72 MB) | XML(28 Mar 2014, Sz: 0.76 MB)
+Mar 2014: Blitz rating:  TXT (28 Mar 2014, Sz: 0.59 MB) | XML (28 Mar 2014, Sz: 0.59 MB)
+
+Feb 2014: Standard rating:  TXT (26 Feb 2014, Sz: 3.86 MB) | XML (24 Feb 2014, Sz: 4.11 MB)
+Feb 2014: Rapid rating:  TXT (26 Feb 2014, Sz: 0.70 MB) | XML(24 Feb 2014, Sz: 0.74 MB)
+Feb 2014: Blitz rating:  TXT (26 Feb 2014, Sz: 0.58 MB) | XML (26 Feb 2014, Sz: 0.58 MB)
+
+Jan 2014: Standard rating:  TXT (31 Jan 2014, Sz: 3.83 MB) | XML (31 Jan 2014, Sz: 4.08 MB)
+Jan 2014: Rapid rating:  TXT (31 Jan 2014, Sz: 0.69 MB) | XML(31 Jan 2014, Sz: 0.73 MB)
+Jan 2014: Blitz rating:  TXT (31 Jan 2014, Sz: 0.57 MB) | XML (31 Jan 2014, Sz: 0.57 MB)
+
+Dec 2013: Standard rating:  TXT (30 Dec 2013, Sz: 3.78 MB) | XML (30 Dec 2013, Sz: 4.03 MB)
+Dec 2013: Rapid rating:  TXT (30 Dec 2013, Sz: 0.63 MB) | XML(30 Dec 2013, Sz: 0.67 MB)
+Dec 2013: Blitz rating:  TXT (30 Dec 2013, Sz: 0.51 MB) | XML (30 Dec 2013, Sz: 0.51 MB)
+
+Nov 2013: Standard rating:  TXT (29 Nov 2013, Sz: 3.76 MB) | XML (29 Nov 2013, Sz: 4.00 MB)
+Nov 2013: Rapid rating:  TXT (29 Nov 2013, Sz: 0.60 MB) | XML(29 Nov 2013, Sz: 0.64 MB)
+Nov 2013: Blitz rating:  TXT (29 Nov 2013, Sz: 0.50 MB) | XML (29 Nov 2013, Sz: 0.50 MB)
+
+Oct 2013: Standard rating:  TXT (29 Oct 2013, Sz: 3.72 MB) | XML (29 Oct 2013, Sz: 3.96 MB)
+Oct 2013: Rapid rating:  TXT (28 Oct 2013, Sz: 0.59 MB) | XML(28 Oct 2013, Sz: 0.63 MB)
+Oct 2013: Blitz rating:  TXT (28 Oct 2013, Sz: 0.49 MB) | XML (28 Oct 2013, Sz: 0.49 MB)
+
+Sep 2013: Standard rating:  TXT (13 Sep 2013, Sz: 3.69 MB) | XML (13 Sep 2013, Sz: 3.93 MB)
+Sep 2013: Rapid rating:  TXT (13 Sep 2013, Sz: 0.53 MB) | XML(13 Sep 2013, Sz: 0.56 MB)
+Sep 2013: Blitz rating:  TXT (13 Sep 2013, Sz: 0.46 MB) | XML (13 Sep 2013, Sz: 0.46 MB)
+
+Aug 2013: Standard rating:  TXT (30 Aug 2013, Sz: 3.66 MB) | XML (30 Aug 2013, Sz: 3.90 MB)
+Aug 2013: Rapid rating:  TXT (30 Aug 2013, Sz: 0.49 MB) | XML(30 Aug 2013, Sz: 0.52 MB)
+Aug 2013: Blitz rating:  TXT (30 Aug 2013, Sz: 0.44 MB) | XML (30 Aug 2013, Sz: 0.44 MB)
+
+Jul 2013: Standard rating:  TXT (31 Jul 2013, Sz: 3.61 MB) | XML (31 Jul 2013, Sz: 3.85 MB)
+Jul 2013: Rapid rating:  TXT (31 Jul 2013, Sz: 0.46 MB) | XML(31 Jul 2013, Sz: 0.49 MB)
+Jul 2013: Blitz rating:  TXT (31 Jul 2013, Sz: 0.40 MB) | XML (31 Jul 2013, Sz: 0.40 MB)
+
+Jun 2013: Standard rating:  TXT (28 Jun 2013, Sz: 3.60 MB) | XML (28 Jun 2013, Sz: 3.83 MB)
+Jun 2013: Rapid rating:  TXT (28 Jun 2013, Sz: 0.43 MB) | XML(28 Jun 2013, Sz: 0.45 MB)
+Jun 2013: Blitz rating:  TXT (28 Jun 2013, Sz: 0.38 MB) | XML (28 Jun 2013, Sz: 0.38 MB)
+
+May 2013: Standard rating:  TXT (27 May 2013, Sz: 3.56 MB) | XML (27 May 2013, Sz: 3.79 MB)
+May 2013: Rapid rating:  TXT (27 May 2013, Sz: 0.38 MB) | XML(27 May 2013, Sz: 0.40 MB)
+May 2013: Blitz rating:  TXT (27 May 2013, Sz: 0.35 MB) | XML (27 May 2013, Sz: 0.35 MB)
+
+Apr 2013: Standard rating:  TXT (30 Apr 2013, Sz: 3.51 MB) | XML (30 Apr 2013, Sz: 3.74 MB)
+Apr 2013: Rapid rating:  TXT (30 Apr 2013, Sz: 0.34 MB) | XML(30 Apr 2013, Sz: 0.36 MB)
+Apr 2013: Blitz rating:  TXT (30 Apr 2013, Sz: 0.32 MB) | XML (30 Apr 2013, Sz: 0.32 MB)
+
+Mar 2013: Standard rating:  TXT (29 Mar 2013, Sz: 3.46 MB) | XML (21 Mar 2013, Sz: 3.68 MB)
+Mar 2013: Rapid rating:  TXT (29 Mar 2013, Sz: 0.31 MB) | XML(21 Mar 2013, Sz: 0.33 MB)
+Mar 2013: Blitz rating:  TXT (29 Mar 2013, Sz: 0.30 MB) | XML (29 Mar 2013, Sz: 0.30 MB)
+
+Feb 2013: Standard rating:  TXT (22 Feb 2013, Sz: 3.44 MB) | XML (22 Feb 2013, Sz: 3.66 MB)
+Feb 2013: Rapid rating:  TXT (22 Feb 2013, Sz: 0.29 MB) | XML(22 Feb 2013, Sz: 0.31 MB)
+Feb 2013: Blitz rating:  TXT (22 Feb 2013, Sz: 0.27 MB) | XML (22 Feb 2013, Sz: 0.27 MB)
+
+Jan 2013: Standard rating:  TXT (28 Jan 2013, Sz: 3.35 MB) | XML (28 Jan 2013, Sz: 3.57 MB)
+Jan 2013: Rapid rating:  TXT (28 Jan 2013, Sz: 0.26 MB) | XML(28 Jan 2013, Sz: 0.28 MB)
+Jan 2013: Blitz rating:  TXT (28 Jan 2013, Sz: 0.25 MB) | XML (28 Jan 2013, Sz: 0.25 MB)
+
+Dec 2012: Standard rating:  TXT (30 Nov 2012, Sz: 3.43 MB) | XML (30 Nov 2012, Sz: 3.65 MB)
+Dec 2012: Rapid rating:  TXT (30 Nov 2012, Sz: 0.22 MB) | XML(30 Nov 2012, Sz: 0.23 MB)
+Dec 2012: Blitz rating:  TXT (30 Nov 2012, Sz: 0.20 MB) | XML (30 Nov 2012, Sz: 0.20 MB)
+
+Nov 2012: Standard rating:  TXT (26 Nov 2012, Sz: 3.39 MB) | XML (26 Nov 2012, Sz: 3.61 MB)
+Nov 2012: Rapid rating:  TXT (26 Nov 2012, Sz: 0.19 MB) | XML(26 Nov 2012, Sz: 0.21 MB)
+Nov 2012: Blitz rating:  TXT (26 Nov 2012, Sz: 0.19 MB) | XML (26 Nov 2012, Sz: 0.19 MB)
+
+Oct 2012: Standard rating:  TXT (15 Oct 2012, Sz: 3.37 MB) | XML (15 Oct 2012, Sz: 3.59 MB)
+Oct 2012: Rapid rating:  TXT (15 Oct 2012, Sz: 0.16 MB) | XML(15 Oct 2012, Sz: 0.17 MB)
+Oct 2012: Blitz rating:  TXT (15 Oct 2012, Sz: 0.17 MB) | XML (15 Oct 2012, Sz: 0.17 MB)
+
+Sep 2012: Standard rating:  TXT (28 Sep 2012, Sz: 3.36 MB) | XML (28 Sep 2012, Sz: 3.58 MB)
+Sep 2012: Rapid rating:  TXT (28 Sep 2012, Sz: 0.14 MB) | XML(28 Sep 2012, Sz: 0.15 MB)
+Sep 2012: Blitz rating:  TXT (28 Sep 2012, Sz: 0.14 MB) | XML (28 Sep 2012, Sz: 0.14 MB)
+
+Aug 2012: Standard rating:  TXT (17 Aug 2012, Sz: 2.88 MB) | XML (17 Aug 2012, Sz: 3.53 MB)
+Aug 2012: Rapid rating:  TXT (17 Aug 2012, Sz: 0.10 MB) | XML(17 Aug 2012, Sz: 0.12 MB)
+Aug 2012: Blitz rating:  TXT (17 Aug 2012, Sz: 0.11 MB) | XML (17 Aug 2012, Sz: 0.11 MB)
+
+Jul 2012: Standard rating:  TXT (17 Jul 2012, Sz: 2.88 MB)
+Jul 2012: Rapid rating:  TXT (17 Jul 2012, Sz: 0.09 MB)
+Jul 2012: Blitz rating:  TXT (17 Jul 2012, Sz: 0.09 MB)
+
+May 2012: Standard rating:  TXT (29 Jun 2012, Sz: 2.83 MB)
+
+Mar 2012: Standard rating:  TXT (27 Apr 2012, Sz: 2.73 MB)
+
+Jan 2012: Standard rating:  TXT (29 Feb 2012, Sz: 2.69 MB)
+
+Nov 2011: Standard rating:  TXT (30 Dec 2011, Sz: 2.67 MB)
+
+Sep 2011: Standard rating:  TXT (31 Oct 2011, Sz: 2.63 MB)
+
+Jul 2011: Standard rating:  TXT (31 Aug 2011, Sz: 2.57 MB)
+
+May 2011: Standard rating:  TXT (28 Jun 2011, Sz: 2.53 MB)
+
+Mar 2011: Standard rating:  TXT (28 Apr 2011, Sz: 2.45 MB)
+
+Jan 2011: Standard rating:  TXT (25 Feb 2011, Sz: 2.37 MB)
+
+Nov 2010: Standard rating:  TXT (30 Dec 2010, Sz: 2.39 MB)
+
+Sep 2010: Standard rating:  TXT (29 Oct 2010, Sz: 2.36 MB)
+
+Jul 2010: Standard rating:  TXT (30 Aug 2010, Sz: 2.31 MB)
+
+May 2010: Standard rating:  TXT (30 Jun 2010, Sz: 2.27 MB)
+
+Mar 2010: Standard rating:  TXT (30 Apr 2010, Sz: 2.19 MB)
+
+Jan 2010: Standard rating:  TXT (01 Mar 2010, Sz: 2.12 MB)
+
+Nov 2009: Standard rating:  TXT (30 Dec 2009, Sz: 1.91 MB)
+
+Sep 2009: Standard rating:  TXT (31 Oct 2009, Sz: 2.08 MB)
+
+Jul 2009: Standard rating:  TXT (31 Aug 2009, Sz: 2.06 MB)
+
+Apr 2009: Standard rating:  TXT (30 Jun 2009, Sz: 1.94 MB)
+
+Jan 2009: Standard rating:  TXT (31 Mar 2009, Sz: 1.92 MB)
+
+Oct 2008: Standard rating:  TXT (30 Dec 2008, Sz: 1.89 MB)
+
+Jul 2008: Standard rating:  TXT (29 Sep 2008, Sz: 1.81 MB)
+
+Apr 2008: Standard rating:  TXT (07 Jun 2010, Sz: 1.73 MB)
+
+Jan 2008: Standard rating:  TXT (21 Mar 2008, Sz: 1.65 MB)
+
+Oct 2007: Standard rating:  TXT (07 Jun 2010, Sz: 1.67 MB)
+
+Jul 2007: Standard rating:  TXT (06 Sep 2007, Sz: 1.62 MB)
+
+Apr 2007: Standard rating:  TXT (22 Jun 2007, Sz: 1.55 MB)
+
+Jan 2007: Standard rating:  TXT (26 Mar 2007, Sz: 1.50 MB)
+
+Oct 2006: Standard rating:  TXT (24 Oct 2006, Sz: 1.42 MB)
+
+Jul 2006: Standard rating:  TXT (15 Sep 2006, Sz: 1.41 MB)
+
+Apr 2006: Standard rating:  TXT (29 Jun 2006, Sz: 1.30 MB)
+
+Jan 2006: Standard rating:  TXT (21 Feb 2006, Sz: 1.31 MB)
+
+Oct 2005: Standard rating:  TXT (01 Dec 2005, Sz: 1.28 MB)
+
+Jul 2005: Standard rating:  TXT (31 Aug 2005, Sz: 1.32 MB)
+
+Apr 2005: Standard rating:  TXT (08 Apr 2005, Sz: 1.30 MB)
+
+Jan 2005: Standard rating:  TXT (31 Dec 2004, Sz: 1.22 MB)
+
+Oct 2004: Standard rating:  TXT (07 Oct 2004, Sz: 1.19 MB)
+
+Jul 2004: Standard rating:  TXT (22 Sep 2004, Sz: 1.11 MB)
+
+Apr 2004: Standard rating:  TXT (06 Apr 2004, Sz: 1.05 MB)
+
+Jan 2004: Standard rating:  TXT (12 Feb 2004, Sz: 1.04 MB)
+
+Oct 2003: Standard rating:  TXT (18 Nov 2003, Sz: 1.03 MB)
+
+Jul 2003: Standard rating:  TXT (08 Sep 2003, Sz: 0.99 MB)
+
+Apr 2003: Standard rating:  TXT (01 Apr 2003, Sz: 0.95 MB)
+
+Jan 2003: Standard rating:  TXT (11 Jan 2003, Sz: 0.94 MB)
+
+Oct 2002: Standard rating:  TXT (12 Sep 2002, Sz: 0.89 MB)
+
+Jul 2002: Standard rating:  TXT (03 Sep 2002, Sz: 0.86 MB)
+
+Apr 2002: Standard rating:  TXT (04 Jul 2002, Sz: 0.89 MB)
+
+Jan 2002: Standard rating:  TXT (05 Jul 2002, Sz: 0.63 MB)
+
+Oct 2001: Standard rating:  TXT (05 Jul 2002, Sz: 0.85 MB)
+
+Jul 2001: Standard rating:  TXT (05 Jul 2002, Sz: 0.83 MB)
+
+Apr 2001: Standard rating:  TXT (03 Jul 2002, Sz: 0.79 MB)
+
+Jan 2001: Standard rating:  TXT (04 Jul 2002, Sz: 0.66 MB)
