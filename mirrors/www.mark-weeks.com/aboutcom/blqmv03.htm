@@ -1,0 +1,254 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+  <TITLE>Do You Know How the Pieces Move? (Quiz no.3)</TITLE>
+  <meta name="keywords" content="chess quiz pieces moves">
+  <meta name="description" content="Match each piece with a description of its moves.">
+
+  <meta name=viewport content="width=device-width, initial-scale=1">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<P ALIGN=CENTER>
+<font face="verdana, geneva, helvetica" SIZE="2">
+<A HREF="index.htm"><IMG SRC="images/caa-logo.jpg" BORDER=0 WIDTH=386 HEIGHT=84></A><BR>
+<A HREF="index.htm"><B>Home</B></A>
+&#149;
+<A HREF="caa-ltpc.htm"><B>Learn to Play Chess</B></A>
+&#149;
+<A HREF="caa-mprv.htm"><B>Improve Your Game</B></A>
+&#149;
+<A HREF="caa-hist.htm"><B>Chess History</B></A>
+&#149;
+<A HREF="caa-4fun.htm"><B>Chess for Fun</B></A>
+&#149;
+<A HREF="http://chessforallages.blogspot.com/"><B>Chess Blog</B></A>
+</font>
+
+<P ALIGN=CENTER>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ResponsiveTop -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8560994623962176"
+     data-ad-slot="1387994057"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<P ALIGN=CENTER>
+<TABLE CELLPADDING="0" CELLSPACING="0" border="0" WIDTH="75%">
+  <tr>
+    <td colspan="2"><font face="verdana, geneva, helvetica" size="4" color="#990033"><strong>
+      Do You Know How the Pieces Move? (Quiz no.3)
+    </strong> </font></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <font face="verdana, geneva, helvetica" color="#990033" SIZE="2">
+      <strong>
+      Match each piece with a description of its moves.
+      </strong>
+      </font>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><font face="verdana, geneva, helvetica" SIZE="2">
+
+<P>
+<HR>
+
+<P>
+Choose your selection for a match next to a piece description in the left column.
+
+Your choice will be checked automatically in the right column to indicate it has already been used.
+
+When you're finished, click <I>Check Your Score</I> to see how well you've done! 
+
+<P>
+Some pieces might seem to have more than one answer. 
+
+Choose the best answer that allows you to match everything from each column, one to one.
+
+<P>
+If you need help, see <I>Related Resources</I> at the bottom of this article.
+
+If you want to try more move quizzes, see <I>More of this Feature</I>.
+
+<P>
+<I>You must have JavaScript enabled in your browser.</I>
+
+<P>
+<CENTER>***</CENTER>
+
+<script language="JavaScript">
+<!--
+function Question(text,answer) {
+ this.text = text;
+ this.answer = answer;
+}
+
+answers = new Object();
+answers["A"] = "Has maximum 2 moves";
+answers["B"] = "Has maximum 3 moves";
+answers["C"] = "Has maximum 4 moves";
+answers["D"] = "Has maximum 7 moves";
+answers["E"] = "Has maximum 8 moves except on the side of the board";
+answers["F"] = "Has maximum 8 moves";
+answers["G"] = "Has maximum 13 moves";
+answers["H"] = "Has maximum 14 moves";
+answers["I"] = "Has maximum 21 moves";
+answers["J"] = "Has maximum 27 moves";
+answers.length = 10;
+
+questions = new Object();
+questions[0]  = null; // skip index [0]
+questions[1]  = new Question("King","E");
+questions[2]  = new Question("King on a1","B");
+questions[3]  = new Question("King on its original square","D");
+questions[4]  = new Question("Queen","J");
+questions[5]  = new Question("Queen on a1","I");
+questions[6]  = new Question("Rook","H");
+questions[7]  = new Question("Bishop","G");
+questions[8]  = new Question("Knight","F");
+questions[9]  = new Question("Knight on a1","A");
+questions[10] = new Question("Pawn on its 2nd rank","C");
+questions.length = 10;
+
+// If you want to reveal the correct answer if they miss it the first time
+// then set this to true. Otherwise, set to false.
+reveal_correct_answer = false;
+
+// **** NO NEED TO MODIFY ANYTHING BELOW THIS POINT *******
+function choice() {
+ for(n=0;n<answers.length;n++)
+  eval("document.matching.answer"+n+".checked = false");
+ for(n=1;n<=questions.length;n++) {
+  sel = eval("document.matching.choice"+n+".selectedIndex");
+  if (sel!=0) eval("document.matching.answer"+(sel-1)+".checked = true");
+ }
+}
+function gradeQuiz() {
+ wrong = "";
+ correct = questions.length;
+ for(n=1;n<=questions.length;n++) {
+  sel = eval("document.matching.choice"+n+".selectedIndex");
+ if ((sel != 0) && (alpha.charAt(sel-1) == questions[n].answer))
+  {}
+  else {
+   correct -= 1;
+   wrong += "#"+n+" wrong! "
+    +(reveal_correct_answer?"Correct answer is "+questions[n].answer:"")
+    +"\r\n";
+  }
+ }
+ document.matching.evaluation.value = "You answered "+correct+" of "+questions.length
+ +" correctly.\r\n"+wrong;
+}
+alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+answers_menu = "<option>-";
+// answers_text = "<td nowrap rowspan="+questions.length+" valign=top><br>";
+for(n=0;n<answers.length;n++) {
+ answers_menu += "<option>"+alpha.charAt(n);
+//  answers_text += '<input type=checkbox name="answer'+n+'">&nbsp;'+alpha.charAt(n)+".&nbsp;"+answers[alpha.charAt(n)]+'<br>';
+}
+// answers_text += "</td>";
+
+document.write('<form name="matching">'
++'<p><table border=0 cellpadding=1 cellspacing=1 align=center>');
+
+for(n=1;n<=questions.length;n++)
+ document.write(
+'<tr>'
++'<td align=right><font face="verdana, geneva, helvetica" SIZE="2"><select name="choice'+n+'" size=1 onChange="choice()">'+answers_menu+'</select>&nbsp;'+'</font></td>'
++'<td><font face="verdana, geneva, helvetica" SIZE="2"><b>'+n+'.</b> '+questions[n].text+'</font></td>'
+// +(n==1?answers_text:"")
++'<td><font face="verdana, geneva, helvetica" SIZE="2"><input type=checkbox name="answer'+(n-1)+'">&nbsp;<b>'+alpha.charAt(n-1)+'.</b>&nbsp;'+answers[alpha.charAt(n-1)]+'</font></td>'
++'</tr>');
+
+document.write('<tr><td colspan=3><center>'
++'<input type=button value="Check Your Score" onClick="gradeQuiz()"><br><textarea rows=12 cols=50 name="evaluation"></textarea>'
++'</td></tr></table></form>');
+
+// -->
+</script>
+
+<P>
+<HR>
+
+      </font>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><img src="images/dot_clea.gif" height=6 width=1></td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <!-- BEGIN LINKBOX TABLE -->
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+        <!--related resources. Use to link to related content on YOUR site.-->
+        <tr>
+          <td>
+            <table cellpadding="2" cellspacing="0" width="100%" border="0">
+              <tr bgcolor="#ccccff">
+                <td>
+                  <font face="verdana, geneva, helvetica" size="1" color="#330066">
+                  &nbsp;<b>More of this Feature</b></font>
+                </td>
+              </tr>
+
+              <tr bgcolor="#eeeeee">
+                <td valign="top">
+                  <font face="verdana, geneva, helvetica" size="1">
+                  &#149;&nbsp;<a href="aa04h07.htm">Beginner Quizzes</a><BR>
+                  </font>
+                </td>
+              </tr>
+
+              <tr bgcolor="#ccccff">
+                <td>
+                  <font face="verdana, geneva, helvetica" size="1" color="#330066">
+                  &nbsp;<b>Related Resources</b></font>
+                </td>
+              </tr>
+
+              <tr bgcolor="#eeeeee">
+                <td valign="top">
+                  <font face="verdana, geneva, helvetica" size="1">
+                  &#149;&nbsp;<a href="ble10ndx.htm">How to Play Chess</a><BR>
+                  </font>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+        <!--//end related resources-->
+
+      </table><p><font face="verdana, geneva, helvetica" SIZE="2">
+      <!--END LINKBOX TABLE -->
+
+  </tr>
+
+</table>
+
+<P ALIGN=CENTER>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ResponsiveBot -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8560994623962176"
+     data-ad-slot="4341460455"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</BODY>
+</HTML>

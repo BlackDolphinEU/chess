@@ -1,0 +1,214 @@
+<HTML><HEAD><TITLE>Chessmetrics ratings vs. FIDE ratings
+</TITLE></HEAD>
+<BODY  TOPMARGIN=0 LEFTMARGIN=40 BOTTOMMARGIN=0 RIGHTMARGIN=40 background="../GIF/LeftBorder.gif" vLink=#0066ff aLink=#cc9900 link=#0066ff>
+<font face="Verdana">
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0><tr><td></td><td  bgcolor="FFFFFF">
+<P align=center><A target=_top 
+href="http://www.chessmetrics.com/index.html"><IMG height=100 
+src="../GIF/ComputerPicture.gif" width=108 border=0><IMG height=96 
+src="../GIF/ChessmetricsPicture.gif" width=280 border=0></A><A 
+name=top></A> 
+<P align=center><FONT color=#006600> 
+</FONT><FONT color=#0066ff></FONT><FONT color=#0066ff>
+
+
+ </FONT></FONT>
+<FONT face=Verdana size=4>Chessmetrics ratings vs. FIDE ratings</FONT>
+</FONT>
+</P>
+<DIV align=center>
+<CENTER>
+<IMG BORDER=0 SRC="../GIF/FIDEvsCM.gif" width="419" height="274"><br>
+
+<P style="MARGIN-LEFT: 30px; MARGIN-RIGHT: 30px" align=justify><A name=info></A><FONT face=Verdana>Although they certainly provide an interesting historical perspective, the Chessmetrics ratings are not going to be very useful for modern players unless they are more "accurate" than the official FIDE ratings.  How can we measure this?  Well, there is a well-known exponential formula for estimating the average score for a player if you know the FIDE ratings of the player and the opponent.  In case it's not quite well-known enough, I'll tell you that the exact formula is 1.0 / (1.0 + 10^((OppRating - OwnRating)/400)).  By applying this formula to each game that someone plays in a year,  you can add up the average predicted scores and compare them to the actual score by the player during that year. If the numbers match exactly, then I say that the accuracy of the prediction is 100%.  If they don't match exactly, then I calculate the accuracy as 1.0 - (ABS(PredictedScore - ActualScore) / NumGames).  Having done this once for the FIDE ratings, it is then possible to do the same thing for the Chessmetrics ratings, using a somewhat different formula for calculating the predicted score in a game.
+<br><br>
+
+The time period doesn't have to be yearly; it could be on a per-game basis, or monthly, but yearly seemed as good as any, and better than most.  So, I went through the last 25 years of comparisons between FIDE accuracy and Chessmetrics accuracy, and the Chessmetrics ratings seem to win every single year.  The difference is sometimes pretty small, but 25 out of 25 should leave no doubt that the Chessmetrics ratings are more accurate at predicting future results than the FIDE ratings.  The above graph illustrates this, and the following data shows just how many games were involved as evidence that the Chessmetrics ratings are more accurate.
+<br><br>
+I should point out that I would love to do a comparison which also included the Professional ratings, but unfortunately the ratings themselves are not widely available, especially for more than just the top-50.  I have been able to track down the complete lists for the past few months, but that's about all.  Nevertheless, at some point I plan to take all available Professional ratings and do a three-way comparison.
+<br><br>
+</FONT> </P>
+
+
+<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD align=middle bgColor=#e6e6e6>
+      <P align=center><B><FONT face=Verdana>&nbsp;&nbsp;Year&nbsp;&nbsp;</FONT></B></P></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT face=Verdana>Chessmetrics accuracy</FONT></B></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT 
+face=Verdana>FIDE Accuracy</FONT></B></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT 
+face=Verdana># Games</FONT></B></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT 
+face=Verdana># Players</FONT></B></TD>
+</TR>
+<tr bgcolor="ffffff" align="middle"><td>1975</td><td>94.4%</td><td>93.5%</td><td>1910</td><td>98</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1976</td><td>94%</td><td>93.8%</td><td>2060</td><td>117</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1977</td><td>95.7%</td><td>95.1%</td><td>2646</td><td>132</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1978</td><td>95.1%</td><td>94.5%</td><td>2863</td><td>131</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1979</td><td>94.6%</td><td>93.7%</td><td>2502</td><td>131</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1980</td><td>94%</td><td>93.4%</td><td>3010</td><td>146</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1981</td><td>94.7%</td><td>93.8%</td><td>2710</td><td>146</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1982</td><td>94.5%</td><td>94.4%</td><td>3548</td><td>150</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1983</td><td>94.9%</td><td>94%</td><td>3678</td><td>176</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1984</td><td>94.3%</td><td>93.8%</td><td>4260</td><td>187</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1985</td><td>95.5%</td><td>94.6%</td><td>4622</td><td>203</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1986</td><td>94.5%</td><td>93.9%</td><td>4626</td><td>220</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1987</td><td>94.8%</td><td>94.5%</td><td>5722</td><td>216</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1988</td><td>95.4%</td><td>94.8%</td><td>6800</td><td>252</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1989</td><td>95.3%</td><td>94.4%</td><td>7522</td><td>293</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1990</td><td>94.6%</td><td>94.4%</td><td>6400</td><td>305</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1991</td><td>94.1%</td><td>93.7%</td><td>6506</td><td>333</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1992</td><td>95.3%</td><td>94.6%</td><td>8518</td><td>336</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1993</td><td>95.1%</td><td>94.7%</td><td>8896</td><td>356</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1994</td><td>95.1%</td><td>94.6%</td><td>8773</td><td>373</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1995</td><td>94.4%</td><td>94.3%</td><td>8156</td><td>381</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1996</td><td>94.9%</td><td>94.3%</td><td>9194</td><td>400</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>1997</td><td>95%</td><td>94.1%</td><td>7728</td><td>380</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>1999</td><td>94.4%</td><td>93.7%</td><td>7011</td><td>352</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>2000</td><td>95.2%</td><td>94.4%</td><td>8995</td><td>371</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>2001</td><td>94.5%</td><td>94.1%</td><td>7468</td><td>381</td></tr>
+</TBODY></TABLE>
+</CENTER></DIV>
+<P style="MARGIN-LEFT: 30px; MARGIN-RIGHT: 30px" align=justify><A name=info></A><FONT face=Verdana>
+In a similar fashion, it is possible to go through player-by-player and report on their career Chessmetrics and FIDE accuracies, based on the same yearly calculations of accuracy, but broken down by player rather than summed up into a single value for each year.  Once again, the advantage seems quite clear: out of the 120 players who played the most rated games during those 25 years (counting only games where each player had a certain minimum rating), over 80% of those players performed more in line with the Chessmetrics predictions than the FIDE predictions.  Here is the list of players, along with the comparison of rating systems for each player.<br><br>
+
+</FONT> </P>
+<TABLE cellSpacing=0 cellPadding=0 width=100%border=0>
+  <TBODY>
+  <TR>
+    <TD align=middle bgColor=#e6e6e6>
+      <P align=left><B><FONT face=Verdana>&nbsp;Player Name&nbsp</FONT></B></P></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT face=Verdana>#<br>Games</FONT></B></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT 
+face=Verdana>Chessmetrics<br>Accuracy</FONT></B></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT 
+face=Verdana>FIDE<br>Accuracy</FONT></B></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT 
+face=Verdana>Ratio</FONT></B></TD>
+    <TD align=middle bgColor=#e6e6e6><B><FONT 
+face=Verdana>Which<br>Better?</FONT></B></TD></TR>
+
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Karpov, Anatoly E</td><td>2030</td><td>96.9%</td><td>96.5%</td><td>1.005</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Timman, Jan H</td><td>1883</td><td>95.9%</td><td>95.3%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Korchnoi, Viktor L</td><td>1837</td><td>96.4%</td><td>96.3%</td><td>1.001</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Beliavsky, Alexander G</td><td>1427</td><td>95.4%</td><td>94.6%</td><td>1.008</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Andersson, Ulf</td><td>1424</td><td>96.5%</td><td>96.3%</td><td>1.002</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Ljubojevic, Ljubomir</td><td>1363</td><td>96.2%</td><td>95.5%</td><td>1.007</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Kasparov, Garry K</td><td>1207</td><td>94.9%</td><td>95.9%</td><td>0.99</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Portisch, Lajos</td><td>1203</td><td>96.4%</td><td>96.5%</td><td>0.999</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Romanishin, Oleg M</td><td>1196</td><td>97.3%</td><td>96.5%</td><td>1.008</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Miles, Anthony J</td><td>1175</td><td>94.9%</td><td>94.8%</td><td>1.001</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Short, Nigel D</td><td>1167</td><td>96.8%</td><td>96.6%</td><td>1.002</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Vaganian, Rafael A</td><td>1148</td><td>96%</td><td>95.2%</td><td>1.009</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Ivanchuk, Vassily</td><td>1128</td><td>95.8%</td><td>95.9%</td><td>0.999</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Hübner, Robert</td><td>1118</td><td>96.9%</td><td>96.9%</td><td>1</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Shirov, Alexei</td><td>1087</td><td>96.7%</td><td>95.8%</td><td>1.009</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Anand, Viswanathan</td><td>1071</td><td>95.9%</td><td>96.2%</td><td>0.997</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Gulko, Boris F</td><td>1066</td><td>96.2%</td><td>95.7%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Adams, Michael</td><td>1064</td><td>96.5%</td><td>96.9%</td><td>0.997</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Nikolic, Predrag</td><td>1062</td><td>96.6%</td><td>96.2%</td><td>1.003</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Jussupow, Artur M</td><td>1059</td><td>96.7%</td><td>96.2%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Hort, Vlastimil</td><td>1045</td><td>97%</td><td>96%</td><td>1.011</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Piket, Jeroen</td><td>1031</td><td>96.7%</td><td>94.1%</td><td>1.027</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Khalifman, Alexander</td><td>1005</td><td>97.4%</td><td>96.8%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Tal, Mikhail</td><td>996</td><td>95.8%</td><td>94.7%</td><td>1.012</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Gelfand, Boris</td><td>970</td><td>96.9%</td><td>96.3%</td><td>1.005</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Tukmakov, Vladimir B</td><td>964</td><td>95.6%</td><td>95%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Psakhis, Lev B</td><td>949</td><td>96.9%</td><td>95.6%</td><td>1.013</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Balashov, Yury S</td><td>947</td><td>96.4%</td><td>95.7%</td><td>1.007</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Seirawan, Yasser</td><td>910</td><td>97.4%</td><td>96.7%</td><td>1.008</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Ribli, Zoltán</td><td>909</td><td>97.5%</td><td>96.1%</td><td>1.015</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Kramnik, Vladimir</td><td>906</td><td>95.6%</td><td>95.3%</td><td>1.003</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Ehlvest, Jaan</td><td>902</td><td>96.6%</td><td>95.3%</td><td>1.013</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Speelman, Jonathan S</td><td>901</td><td>96.5%</td><td>96.1%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Sokolov, Ivan</td><td>870</td><td>96.4%</td><td>96.1%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Sax, Gyula</td><td>851</td><td>95.3%</td><td>95.6%</td><td>0.997</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Polugaevsky, Lev A</td><td>844</td><td>96.5%</td><td>95.6%</td><td>1.009</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Bareev, Evgeny</td><td>830</td><td>96.7%</td><td>95.4%</td><td>1.013</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Spassky, Boris V</td><td>825</td><td>96.9%</td><td>95.5%</td><td>1.016</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Dreev, Alexey</td><td>810</td><td>96.1%</td><td>94.4%</td><td>1.018</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Gurevich, Mikhail N</td><td>805</td><td>95.5%</td><td>95.2%</td><td>1.003</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Lputian, Smbat G</td><td>791</td><td>95.9%</td><td>95.9%</td><td>1</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Lautier, Joel</td><td>790</td><td>95.7%</td><td>95.1%</td><td>1.007</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Sveshnikov, Evgeny E</td><td>778</td><td>94.5%</td><td>92.8%</td><td>1.018</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Tseshkovsky, Vitaly V</td><td>778</td><td>94.9%</td><td>94.5%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;van der Wiel, John T H</td><td>771</td><td>95.8%</td><td>95.6%</td><td>1.002</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Chernin, Alexander M</td><td>763</td><td>96%</td><td>95.7%</td><td>1.003</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Malaniuk, Vladimir P</td><td>761</td><td>96.6%</td><td>94.4%</td><td>1.023</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Larsen, Bent</td><td>759</td><td>95.1%</td><td>94.7%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;van Wely, Loek</td><td>759</td><td>96.8%</td><td>96.4%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Nunn, John D M</td><td>758</td><td>95.8%</td><td>95.6%</td><td>1.002</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Ftácnik, Lubomír</td><td>748</td><td>96.4%</td><td>95.5%</td><td>1.009</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Polgar, Judit</td><td>737</td><td>96.2%</td><td>95.2%</td><td>1.01</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Dolmatov, Sergey V</td><td>730</td><td>96.8%</td><td>96.5%</td><td>1.003</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Smyslov, Vassily V</td><td>723</td><td>94.5%</td><td>93.7%</td><td>1.009</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Browne, Walter S</td><td>681</td><td>94.9%</td><td>93.9%</td><td>1.01</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Georgiev, Kiril</td><td>653</td><td>94.4%</td><td>94.6%</td><td>0.998</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Yudasin, Leonid G</td><td>653</td><td>95.1%</td><td>93.6%</td><td>1.016</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Geller, Efim P</td><td>652</td><td>93.3%</td><td>93%</td><td>1.003</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Smejkal, Jan</td><td>652</td><td>96.2%</td><td>94.9%</td><td>1.014</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Topalov, Veselin</td><td>652</td><td>94.9%</td><td>96.4%</td><td>0.984</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Epishin, Vladimir</td><td>646</td><td>95.1%</td><td>93.7%</td><td>1.015</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Lobron, Eric</td><td>646</td><td>95.5%</td><td>95.4%</td><td>1.001</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Razuvaev, Yury S</td><td>637</td><td>94.7%</td><td>94.5%</td><td>1.002</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Smirin, Ilia</td><td>636</td><td>96.2%</td><td>94.6%</td><td>1.017</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Christiansen, Larry M</td><td>618</td><td>94.5%</td><td>93.8%</td><td>1.008</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Kuzmin, Gennady P</td><td>604</td><td>95.5%</td><td>94.2%</td><td>1.014</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Sosonko, Gennadi</td><td>587</td><td>96.7%</td><td>96%</td><td>1.007</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Adorján, András</td><td>580</td><td>95.7%</td><td>95.9%</td><td>0.998</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Salov, Valery B</td><td>580</td><td>95.3%</td><td>95.3%</td><td>0.999</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Kupreichik, Viktor D</td><td>572</td><td>93.8%</td><td>93.1%</td><td>1.008</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Azmaiparashvili, Zurab A</td><td>569</td><td>96%</td><td>94.5%</td><td>1.016</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Sokolov, Andrey Y</td><td>569</td><td>95%</td><td>93.3%</td><td>1.019</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Hjartarson, Jóhann</td><td>554</td><td>94.2%</td><td>93.8%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Torre, Eugenio</td><td>554</td><td>93.6%</td><td>93.8%</td><td>0.997</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;deFirmian, Nicholas E</td><td>546</td><td>96.4%</td><td>95.6%</td><td>1.008</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Rozentalis, Eduardas</td><td>544</td><td>95.1%</td><td>94.2%</td><td>1.009</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Akopian, Vladimir</td><td>541</td><td>96.2%</td><td>96.7%</td><td>0.995</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Oll, Lembit</td><td>541</td><td>96.3%</td><td>95.2%</td><td>1.011</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Kurajica, Bojan</td><td>532</td><td>94.7%</td><td>93.8%</td><td>1.01</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Illescas Cordoba, Miguel</td><td>521</td><td>95.8%</td><td>94.8%</td><td>1.011</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Chandler, Murray G</td><td>518</td><td>93.8%</td><td>93.4%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Gligoric, Svetozar</td><td>515</td><td>96.1%</td><td>95.8%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Hansen, Curt</td><td>510</td><td>93.9%</td><td>93.8%</td><td>1</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Hodgson, Julian M</td><td>509</td><td>95.6%</td><td>94.5%</td><td>1.012</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Petrosian, Tigran V</td><td>502</td><td>98.1%</td><td>97.5%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Kamsky, Gata</td><td>497</td><td>95.8%</td><td>95.4%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Yermolinsky, Alex V</td><td>492</td><td>94.5%</td><td>94.3%</td><td>1.002</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Benjamin, Joel L</td><td>490</td><td>96.7%</td><td>95.6%</td><td>1.011</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Uhlmann, Wolfgang</td><td>490</td><td>93.8%</td><td>94.2%</td><td>0.996</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Gavrikov, Victor N</td><td>489</td><td>93.2%</td><td>94.1%</td><td>0.99</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Svidler, Peter</td><td>489</td><td>94.7%</td><td>94.8%</td><td>0.999</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Tiviakov, Sergei</td><td>489</td><td>94.9%</td><td>94.8%</td><td>1.001</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Leko, Peter</td><td>485</td><td>96.2%</td><td>95.9%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Vyzmanavin, Alexey</td><td>485</td><td>95.7%</td><td>95.2%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Gheorghiu, Florin</td><td>484</td><td>93.8%</td><td>93.6%</td><td>1.002</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Lerner, Konstantin Z</td><td>484</td><td>95.9%</td><td>94.5%</td><td>1.015</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Rashkovsky, Nukhim N</td><td>484</td><td>94.6%</td><td>93.6%</td><td>1.011</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Mikhalchishin, Adrian B</td><td>480</td><td>95.2%</td><td>94.2%</td><td>1.01</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Novikov, Igor A</td><td>478</td><td>95.2%</td><td>94.8%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Krasenkow, Michal</td><td>476</td><td>94%</td><td>94%</td><td>1.001</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Dorfman, Iosif D</td><td>474</td><td>94.8%</td><td>93.7%</td><td>1.012</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Eingorn, Viacheslav S</td><td>466</td><td>96.9%</td><td>95.9%</td><td>1.01</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Nogueiras, Jesus</td><td>465</td><td>96.6%</td><td>97.2%</td><td>0.994</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Dvoiris, Semen I</td><td>451</td><td>93.3%</td><td>93.1%</td><td>1.003</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Kavalek, Lubomir</td><td>445</td><td>96.4%</td><td>95.9%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Kindermann, Stefan</td><td>439</td><td>94.9%</td><td>95%</td><td>0.999</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Kharitonov, Andrey Y</td><td>433</td><td>95.3%</td><td>93.2%</td><td>1.023</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Lutz, Christopher</td><td>431</td><td>96.3%</td><td>95.6%</td><td>1.007</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Bologan, Viktor</td><td>430</td><td>93.2%</td><td>92.8%</td><td>1.004</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Bagirov, Vladimir K</td><td>428</td><td>95.6%</td><td>93.6%</td><td>1.021</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Faragó, Iván</td><td>426</td><td>95.2%</td><td>95.3%</td><td>0.999</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Glek, Igor V</td><td>417</td><td>93.5%</td><td>92.9%</td><td>1.007</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Pétursson, Margeir</td><td>416</td><td>95.7%</td><td>95.2%</td><td>1.005</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Yakovich, Yuri</td><td>415</td><td>96.2%</td><td>95.7%</td><td>1.006</td><td>Chessmetrics</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Kožul, Zdenko</td><td>409</td><td>95.7%</td><td>95.9%</td><td>0.997</td><td>FIDE</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Velimirovic, Dragoljub</td><td>409</td><td>92.5%</td><td>92.8%</td><td>0.997</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Rogers, Ian</td><td>398</td><td>95.1%</td><td>94.3%</td><td>1.008</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Dzindzichashvili, Roman Y</td><td>397</td><td>92.8%</td><td>93.5%</td><td>0.992</td><td>FIDE</td></tr>
+<tr bgcolor="ffffff" align="middle"><td>&nbsp;Hulak, Krunoslav</td><td>387</td><td>94.7%</td><td>93.6%</td><td>1.012</td><td>Chessmetrics</td></tr>
+<tr bgcolor="eeeeee" align="middle"><td>&nbsp;Smagin, Sergey</td><td>384</td><td>93%</td><td>91.2%</td><td>1.02</td><td>Chessmetrics</td></tr></table>
+<P align=center><A href="#"><FONT face=Verdana>Back to top</FONT></A> <P align=center><A href="http://www.chessmetrics.com/index.html"><FONT face=Verdana>Home</FONT></A> 
+</P></td><td></td></tr></table></font></BODY></HTML>
