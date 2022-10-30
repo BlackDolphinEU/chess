@@ -1,0 +1,356 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+  <TITLE>Calculate Your Chess Rating with a Javascript Calculator</TITLE>
+  <meta name="keywords" content="chess calculate rating elo javascript calculator performance">
+  <meta name="description" content="Just plug in your current rating, your opponents' ratings, and your results. Then click 'Calculate'. The tool will determine your new rating plus show some intermediate numbers used to compute the rating.">
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!--
+
+function initArray(N)
+  {
+  this.length = N
+  for (var i = 0; i < this.length; i++)
+    this[i + 1] = 0
+  }
+
+function initArray2()
+  {
+  this.length = initArray2.arguments.length
+  for (var i = 0; i < this.length; i++)
+    this[i + 1] = initArray2.arguments[i]
+  }
+
+function numCheck1(form, t)
+  {
+  var t2 = " 0123456789"
+
+  for (var i=0; i < t.length; i++) {
+    c = t2.indexOf(t.charAt(i))
+    if (c < 0) {
+      alert("Only digits are allowed!")
+      form.field1.focus()
+      return
+    }
+
+   if ((t < 0) || (t > 3000)) {
+      alert("Your rating must be in the range 0 - 3000!")
+      form.field1.focus()
+      return
+   }
+  }
+  }
+
+function numCheck2(form, t)
+  {
+  var t2 = " +-=0123456789"
+
+  for (var i=0; i < t.length; i++) {
+    c = t2.indexOf(t.charAt(i))
+    if (c < 0) {
+      alert("Only +/-/= and digits are allowed!")
+      form.field2.focus()
+      return
+    }
+  }
+  }
+
+function CalcElo(form, parm1, parm2, parm3, parm4, parm5, parm6, parm7, parm8)
+  {
+  var results = new initArray(50)
+  var oppelos = new initArray(50)
+  var xpected = new initArray(50)
+  var numopps = 0, k, rtgdiff = 0, absrtgdiff
+  var i = 0, j = 0, tmp = 0, tmp2
+
+  expvsdifx = new initArray2(
+     3, 10, 17, 25, 32, 39, 46, 53, 61, 68,
+    76, 83, 91, 98,106,113,121,129,137,145,
+   153,162,170,179,188,197,206,215,225,235,
+   245,256,267,278,290,302,315,328,344,357,
+   374,391,411,432,456,484,517,559,619,735)
+
+  expvsdif = new initArray2(
+     0,  7, 14, 21, 29, 36, 43, 50, 57, 65,
+    72, 80, 87, 95,102,110,117,125,133,141,
+   149,158,166,175,184,193,202,211,220,230,
+   240,251,262,273,284,296,309,322,335,351,
+   366,383,401,422,444,470,501,538,589,677)
+
+  while (i < parm2.value.length) {
+    j++
+    numopps = j
+    oppelos[j] = ""
+
+    while ((parm2.value.charAt(i) == " ") && (i < parm2.value.length))
+      i++
+
+    if (parm2.value.charAt(i) == "+") {
+      results[j] = 1
+      i++
+      }
+    else if (parm2.value.charAt(i) == "-") {
+      results[j] = 0
+      i++
+    }
+    else if (parm2.value.charAt(i) == "=") {
+      results[j] = 0.5
+      i++
+    }
+    else {
+      alert("Only +/-/= allowed for result!")
+      form.field2.focus()
+      return
+    }
+
+    while ((parm2.value.charAt(i) == " ") && (i < parm2.value.length))
+      i++
+
+    while ((parm2.value.charAt(i) != " ") && (i < parm2.value.length)) {
+      oppelos[j] += parm2.value.charAt(i)
+      i++
+    }
+
+    oppelos[j] = parseInt(oppelos[j])
+
+    while ((parm2.value.charAt(i) == " ") && (i < parm2.value.length))
+      i++
+  }
+
+  if (numopps < 1) { return }
+
+  for (i = 1; i <= numopps; i++) {
+    if ((oppelos[i] < 1) || (oppelos[i] > 3000)) {
+    alert("All opponents' ratings must be in the range 1 - 3000!")
+    form.field2.focus()
+    return
+    }
+  }
+
+  if (parm4.value > 0)           k = parm4.value
+  else
+  if      (parm1.value >= 2400)  k = 10
+  else if (parm1.value >= 2000)  k = 15
+  else                           k = 25
+
+  for (var i=1; i <= numopps; i++) {
+    rtgdiff = parm1.value - oppelos[i]
+    absrtgdiff = Math.abs(rtgdiff)
+    if (rtgdiff > expvsdif[expvsdif.length])
+      xpected[i] = 99
+    else {
+      tmp = 0
+      for (var j=1; expvsdif[j] < absrtgdiff; j++) {
+        tmp = j
+      }
+
+      if (parm1.value > oppelos[i])
+        xpected[i] = 50 + tmp
+      else
+        xpected[i] = 50 - tmp
+    }
+  }
+
+  tmp = 0
+   for (var i=1; i <= numopps ; i++)
+    tmp += (results[i] * 100) - xpected[i]
+
+  parm3.value = Math.round(eval(parm1.value) + (k * tmp) / 100)
+  parm4.value = k
+
+  tmp = 0
+   for (var i=1; i <= numopps ; i++)
+    tmp += results[i]
+
+  parm5.value = tmp
+
+  tmp = 0
+   for (var i=1; i <= numopps ; i++)
+    tmp += xpected[i]
+
+  parm6.value = tmp / 100
+
+  parm7.value = numopps
+
+  tmp = 0
+   for (var i=1; i <= numopps ; i++)
+    tmp += oppelos[i]
+
+  parm8.value = Math.round((tmp + 800 * (parm5.value - (parm7.value / 2))) / parm7.value)
+
+  }
+
+//-->
+
+</SCRIPT>
+
+
+  <meta name=viewport content="width=device-width, initial-scale=1">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<P ALIGN=CENTER>
+<font face="verdana, geneva, helvetica" SIZE="2">
+<A HREF="index.htm"><IMG SRC="images/caa-logo.jpg" BORDER=0 WIDTH=386 HEIGHT=84></A><BR>
+<A HREF="index.htm"><B>Home</B></A>
+&#149;
+<A HREF="caa-ltpc.htm"><B>Learn to Play Chess</B></A>
+&#149;
+<A HREF="caa-mprv.htm"><B>Improve Your Game</B></A>
+&#149;
+<A HREF="caa-hist.htm"><B>Chess History</B></A>
+&#149;
+<A HREF="caa-4fun.htm"><B>Chess for Fun</B></A>
+&#149;
+<A HREF="http://chessforallages.blogspot.com/"><B>Chess Blog</B></A>
+</font>
+
+<P ALIGN=CENTER>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ResponsiveTop -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8560994623962176"
+     data-ad-slot="1387994057"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<P ALIGN=CENTER>
+<TABLE CELLPADDING="0" CELLSPACING="0" border="0" WIDTH="75%">
+  <tr>
+    <td colspan="2"><font face="verdana, geneva, helvetica" size="4" color="#990033"><strong>
+      Calculate Your Chess Rating
+    </strong> </font></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <font face="verdana, geneva, helvetica" color="#990033" SIZE="2">
+      <strong>
+      It's easy with the Javascript Rating Calculator. 
+      </strong>
+      </font>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><font face="verdana, geneva, helvetica" SIZE="2">
+
+<P>
+<HR>
+
+<P>
+To get started, you'll need your opponents' ratings.
+
+Enter your current rating, your opponents' ratings, and your results. 
+
+Then click 'Calculate'. 
+
+The tool will determine your new rating plus show some intermediate numbers used to compute the rating.
+
+(You must also have <I>JavaScript</I> enabled in your browser.) 
+
+
+<P>
+<form name="form1" target="_blank">
+
+<P>
+<B>Required input:-</B><BR>
+<input type="text" size="6" name="field1" onblur="numCheck1(this.form, this.value)"> Your current rating (Ro)<br>
+
+<input type="text" size="60" name="field2" onblur="numCheck2(this.form, this.value)"><br>
+Enter your opponents' ratings separated by spaces; +/-/= for win/loss/draw, e.g. <B>+1600 -1850 =1725</B>.<br>
+
+<P>
+
+<B>Optional input:-</B><BR>
+<input type="text" size="6" name="field4"> K-factor (K)<br>
+
+<P>
+<input 
+type="button" 
+name="button1" 
+value="Calculate" 
+onclick="CalcElo(this.form, document.form1.field1, document.form1.field2, document.form1.field3, document.form1.field4, document.form1.field5, document.form1.field6, document.form1.field7, document.form1.field8)">
+
+<P>
+<input type="text" size="6" name="field7"> <B>Number of games</B> (Gms)<br>
+<input type="text" size="6" name="field5"> <B>Your score</B> (W)<br>
+
+<input type="text" size="6" name="field6"> <B>Your expected score</B> (We)<br>
+<input type="text" size="6" name="field3"> <B>Your new rating</B><br>
+<input type="text" size="6" name="field8"> <B>Your performance rating</B>
+
+</form>
+
+<P>
+<CENTER>***</CENTER>
+
+<P>
+Your new rating = [Ro + K * (W - We)]<BR>
+Your performance rating =  [(Total of opponents' ratings + 400 * (Wins - Losses)) / Gms]
+
+<P>
+<HR>
+
+      </font>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><img src="images/dot_clea.gif" height=6 width=1></td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <!-- BEGIN LINKBOX TABLE -->
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+        <!--related resources. Use to link to related content on YOUR site.-->
+        <tr>
+          <td>
+            <table cellpadding="2" cellspacing="0" width="100%" border="0">
+              <tr bgcolor="#ccccff">
+                <td>
+                  <font face="verdana, geneva, helvetica" size="1" color="#330066">
+                  &nbsp;<b>Related Resources</b></font>
+                </td>
+
+              </tr>
+              <tr bgcolor="#eeeeee">
+                <td valign="top">
+                  <font face="verdana, geneva, helvetica" size="1">
+                  &#149;&nbsp;<a href="aa04l04.htm">Step By Step Calculation</a><br>
+                  &#149;&nbsp;<a href="aa04l11.htm">Tools to Calculate Ratings</a><br>
+                  </font>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+        <!--//end related resources-->
+
+      </table><p><font face="verdana, geneva, helvetica" SIZE="2">
+      <!--END LINKBOX TABLE -->
+
+  </tr>
+
+</table>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8560994623962176"
+     data-ad-slot="2357438051"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</BODY>
+</HTML>
+

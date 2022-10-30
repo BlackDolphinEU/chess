@@ -1,0 +1,448 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+  <TITLE>Calculate Your Chess Rating</TITLE>
+  <meta name="keywords" content="chess calculate rating">
+  <meta name="description" content="Calculate Your Chess Rating Step by Step.">
+
+  <meta name=viewport content="width=device-width, initial-scale=1">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<P ALIGN=CENTER>
+<font face="verdana, geneva, helvetica" SIZE="2">
+<A HREF="index.htm"><IMG SRC="images/caa-logo.jpg" BORDER=0 WIDTH=386 HEIGHT=84></A><BR>
+<A HREF="index.htm"><B>Home</B></A>
+&#149;
+<A HREF="caa-ltpc.htm"><B>Learn to Play Chess</B></A>
+&#149;
+<A HREF="caa-mprv.htm"><B>Improve Your Game</B></A>
+&#149;
+<A HREF="caa-hist.htm"><B>Chess History</B></A>
+&#149;
+<A HREF="caa-4fun.htm"><B>Chess for Fun</B></A>
+&#149;
+<A HREF="http://chessforallages.blogspot.com/"><B>Chess Blog</B></A>
+</font>
+
+<P ALIGN=CENTER>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ResponsiveTop -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8560994623962176"
+     data-ad-slot="1387994057"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<P ALIGN=CENTER>
+<TABLE CELLPADDING="0" CELLSPACING="0" border="0" WIDTH="75%">
+  <tr>
+    <td colspan="2"><font face="verdana, geneva, helvetica" size="4" color="#990033"><strong>
+      Calculate Your Chess Rating
+    </strong> </font></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <font face="verdana, geneva, helvetica" color="#990033" SIZE="2">
+      <strong>
+      A chess rating is based on your opponents' ratings and your results against those opponents.
+      </strong>
+      </font>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><font face="verdana, geneva, helvetica" SIZE="2">
+
+<P>
+<HR>
+
+<h4>Overview - Step By Step</h4>
+
+<P>
+A: Note the ratings of your opponents<BR>
+B: Compute the rating differences<BR>
+C: Look up your winning expectancies<BR>
+D: Compare your expected score to your actual score<BR>
+E: Determine your k-factor<BR>
+F: Compute your new rating<BR>
+G: Determine your performance per game<BR>
+H: Calculate your performance rating for the event<BR>
+
+<P>
+<HR>
+
+<h4>A: Note the ratings of your opponents</h4>
+
+<P>
+A chess rating is based on your opponents' ratings and your results against those opponents.
+
+It is usually calculated after an event (a tournament or a match) has completed and is based on all the games played against rated opponents in that event.
+
+<p>
+To find out more about ratings see <i>Suggested Reading</i> in the link box at the bottom.
+
+If you don't like math or are looking for a quick way to calculate ratings, see the rating calculator tool, also in the link box.
+
+<p>
+The first step in calculating a rating is to note the ratings of your opponents and your result against each.
+
+Let's say that your rating is <b>1500</b> and that you have just played a 5-round event.
+
+(If you don't have a rating, you can still calculate a tentative rating.
+
+See <b>performance rating</b> below.)
+
+<p>
+You won against a player rated 1400, lost to a 1650, won against a 1575, drew with a 1625, and lost to a 1700.
+
+We'll summarize your results as <b>+1400 -1650 +1575 =1625 -1700</b>.
+
+The following steps will use these as an example.
+
+<p>
+Do you already have a rating?
+
+<ul>
+<li>Follow steps B through F to <b>calculate your new rating</b>.
+
+</ul>
+
+You don't have a rating? 
+
+<ul>
+<li>Follow steps G and H to <b>calculate your performance rating</b>.
+</ul>
+
+<p>
+Knowing your performance rating for an event can be useful even if you already have a rating.
+
+<P>
+<HR>
+
+<h4>B: Compute the rating differences</h4>
+
+<P>
+From step (A) : Your current rating is <b>1500</b> and the results in your last event were <b>+1400 -1650 +1575 =1625 -1700</b>.
+
+<p>
+Now calculate the difference between your rating and each of your opponents' ratings. 
+
+The sign ('+' or '-') is important. 
+
+If you were rated higher than an opponent, the sign is positive ('+'). If you were rated lower, the sign is negative ('-').
+
+<p>
+In your first game, your opponent was rated 1400. You were rated 1500, so the rating difference was (1500 - 1400) which is +100.
+
+In your second game, your opponent was rated 1650, so the difference was (1500 - 1650) which is -150.
+
+<p>
+Continuing for all 5 games, you calculate that the rating differences were <b>+100 -150 -75 -125 -200</b>.
+
+<P>
+<HR>
+
+<h4>C: Look up your winning expectancies</h4>
+
+<P>
+From step (B) : The rating differences for your last event were <b>+100 -150 -75 -125 -200</b>.
+
+<p>
+Now you need to compute your winning expectancy for each game.
+
+The math for this is complicated, so we are going to rely on a table lookup.
+
+Note that the table, which is shown below, has two real columns. The first column is a number from 677 to -677. The second column is a number from .99 to .01.
+
+<p>
+The first column corresponds to rating differences and the second corresponds to winning expectancies. 
+
+The first entry in the table (677 .99) means that when the stronger player is rated more than 677 points higher than an opponent, the stronger player has a 99% chance of winning the game. 
+
+The last entry (-677 .01) means that a player rated more than 677 points lower has a 1% chance of winning.  
+
+<p>
+The middle entry (0 .50) means that when there is no rating difference, both players have a 50% chance of winning.
+
+This is the same as saying that two players with the same rating are evenly matched.
+
+<p>
+For each of your games, use the table to look up the winning expectancy that corresponds to the rating difference that you calculated.
+
+The rating difference of +100 in your first game corresponds to a winning expectancy of .64. The difference of -150 in the second game corresponds to an expectancy of .29.
+
+<p>
+Continuing for all 5 games, we calculate that the winning expectancies were <b>.64 .29 .39 .33 .24</b>.
+
+<p ALIGN=CENTER>
+<IMG SRC="images/aa04l11a.gif" WIDTH=398 HEIGHT=302><BR>
+<B>Rating differences vs. winning expectancies</B>
+
+<P>
+<HR>
+
+<h4>D: Compare your expected score to your actual score</h4>
+
+<P>
+From step (C) : The winning expectancies for your last event were <b>.64 .29 .39 .33 .24</b>.
+
+<p>
+Your new rating will be determined by the difference between your winning expectancies and the score you achieved. 
+
+<ul>
+<li>
+First, add up your winning expectancies:-
+
+<p>
+<b>.64 + .29 + .39 + .33 + .24 = 1.89</b>
+
+<p>
+This was your expected score for the event.
+<br /><br />
+
+<li>
+Second, calculate your total score using the three possible results for any chess game.
+
+Count 1 point for a win; &#189; point for a draw, and 0 points for a loss.
+
+In our example event you won two games, lost two games, and had one draw.
+
+Your total score was 
+
+
+<p>
+<b>(2 x 1.0) + (2 x 0.0) + (1 x 0.5) = 2.5</b>
+
+</ul>
+
+<p>
+Since your total score (2.5) was higher than your expected result (1.89), your rating will increase.
+
+If your total score had been lower than your expected result, your rating would decrease.
+
+If your total score had been exactly the same as your expected result (which doesn't happen often), your rating would not change.
+
+<P>
+<HR>
+
+<h4>E: Determine your k-factor</h4>
+
+<P>
+This is the trickiest step, because there is no agreed formula to determine the k-factor.
+
+You just have to know what your chess federation (or other rating agency) uses.
+
+<p>
+The k-factor determines how fast your rating changes. 
+
+It is a number which usually lies between 10 and 40. 
+
+The higher the k-factor, the faster a rating changes; the lower the k-factor, the slower a rating changes.
+
+Some considerations for setting a k-factor are:-
+
+
+<ul>
+<li>the age of a player,
+<li>the number of rated games already used to determine a player's current rating, and/or
+<li>the player's current rating.
+</ul>
+
+<p>
+FIDE, the international chess federation, uses the following k-factors:-
+
+<ul>
+<li>25 until a player has completed enough events to have played at least 30 games;
+<li>15 for a player rated less than 2400; and
+<li>10 once a player has reached 2400 and played 30 games.  Thereafter it remains permanently at 10.
+</ul>
+
+<p>
+Four the next step, we'll assume a k-factor of <b>25</b>.
+
+<P>
+<HR>
+
+<h4>F: Compute your new rating</h4>
+
+<p>
+From steps (A), (D), and (E):- 
+
+<ul>
+
+<li>Your current rating is <b>1500</b> (Ro).
+<li>Your total winning expectancy for your last event was <b>1.89</b> (We).
+<li>The score you achieved for that event was <b>2.5</b> (W).
+<li>Your k-factor is <b>25</b> (K).
+</ul>
+
+<p>
+Your new rating will be determined by the k-factor (K) multiplied by the difference between your real score (W) and your expected score (We). 
+
+<ul>
+<li>Expressed as a formula this gives <b>K * (W - We)</b>, which we'll call <b>D</b>. Plugging in the numbers gives<br /><br />
+<li><b>25 * (2.5 - 1.89) = 15</b> (D, rounded to the nearest whole number).
+</ul>
+
+<p>
+Your new rating is your old rating (Ro) plus the result of that last calculation (D). 
+
+
+<ul>
+<li>Expressed as a formula this gives <b>Ro + D</b>. Plugging in the numbers gives<br /><br />
+<li><b>1500 + 15 = 1515</b>.
+</ul>
+
+<p>
+Congratulations! Your rating has increased by 15 points and you are now rated 1515.
+
+<p>
+As an exercise, go back to step (A) and assume that you won your last game against the player rated 1700.  What would your new rating be?
+
+<p>
+Your current rating (Ro) hasn't changed; it's still 1500.
+
+Your total winning expectancy (We) also hasn't changed; it's 1.89. 
+
+Your k-factor rarely changes.
+
+The only thing that changes is your score (W). It's 3.5 instead of 2.5.
+
+<ul>
+<li>Ro + (K * (W - We)) = <b>1500 + 25 * (3.5 - 1.89) = 1540</b>.
+
+</ul>
+
+Wins against higher rated players mean big rating gains!
+
+<P>
+<HR>
+
+<h4>G: Determine your performance per game</h4>
+
+<P>
+It's also possible to calculate a rating if you have no current rating. Let's go back to our initial example.
+
+<p>
+From step (A) : The results in your last event were <b>+1400 -1650 +1575 =1625 -1700</b>.
+
+
+<p>
+The performance rating for a single game is based on your opponent's rating adjusted as follows:-
+
+<ul>
+<li>Opponent's rating plus 400 points if you win.
+<li>Opponent's rating if you draw.
+<li>Opponent's rating minus 400 points if you lose.
+</ul>
+
+<p>
+In your first game, you achieved a performance of 1400 + 400 for a rating of 1800.
+
+In your second game, you achieved 1650 - 400 for a rating of 1250.
+
+Continuing for all 5 games, we calculate that the performances were <b>1800 1250 1975 1625 1300</b>.
+
+<P>
+<HR>
+
+<h4>H: Calculate your performance rating for the event</h4>
+
+<P>
+From step (G) : Your game performances were <b>1800 1250 1975 1625 1300</b>.
+
+<p>
+Your performance rating (Rp) for the event is the average of your game performances. Our example uses five games, so you calculate.
+
+<ul>
+<li><b>1800 + 1250 + 1975 + 1625 + 1300 = 7950</b>, and
+<li><b>7950 / 5 = 1590</b>.
+</ul>
+
+<p>
+Your performance rating for the event is <b>1590</b>.
+
+If you're mathematically inclined, you might confirm that the performance rating is 
+the average of your opponents' ratings (Ra) plus 400 times the difference between your wins and losses divided by the number of games (Gms).
+
+<ul>
+<li>Expressed as a formula this gives <b>Rp = Ra + 400 * (Wins - Losses) / Gms</b>.
+
+</ul>
+
+<p>
+This means that if you score 50% in an event, your performance rating is simply the average of your opponents' ratings.
+
+If you have a perfect score, your performance rating is the average of your opponents' ratings plus 400.
+
+<p>
+How do you know you've had a great tournament?
+
+When your performance rating is much higher than your official rating!
+
+<P>
+<HR>
+
+      </font>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><img src="images/dot_clea.gif" height=6 width=1></td>
+  </tr>
+
+  <tr>
+    <td colspan="2">
+      <!-- BEGIN LINKBOX TABLE -->
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+        <!--related resources. Use to link to related content on YOUR site.-->
+        <tr>
+          <td>
+            <table cellpadding="2" cellspacing="0" width="100%" border="0">
+              <tr bgcolor="#ccccff">
+                <td>
+                  <font face="verdana, geneva, helvetica" size="1" color="#330066">
+                  &nbsp;<b>Related Resources</b></font>
+                </td>
+
+              </tr>
+              <tr bgcolor="#eeeeee">
+                <td valign="top">
+                  <font face="verdana, geneva, helvetica" size="1">
+                  &#149;&nbsp;<A HREF="aa03a25.htm">Chess Ratings</A><BR>
+                  &#149;&nbsp;<A HREF="aa04l11j.htm">Rating Calculator</A><BR>
+                  &#149;&nbsp;<A HREF="aa04l11.htm">Tools to Calculate Your Rating</A><BR>
+                  </font>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+        <!--//end related resources-->
+
+      </table><p><font face="verdana, geneva, helvetica" SIZE="2">
+      <!--END LINKBOX TABLE -->
+
+  </tr>
+
+</table>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-8560994623962176"
+     data-ad-slot="2357438051"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</BODY>
+</HTML>
+

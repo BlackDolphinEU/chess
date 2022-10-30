@@ -1,0 +1,100 @@
+/* Default Palview4 CSS file -- January 28, 2003 */
+/* Used for replayable games and the new game viewer */
+
+ BODY {background-color:floralwhite;}
+
+/* Palview Game Move DIVision & Palview Game Info DIVision */
+
+DIV.pgm P  {margin: 0px; padding:2pt;}
+DIV.pgi P {margin: 0px; padding:3pt; }
+
+/* The actual linked Game moves (always in 'pm' class) */
+DIV.pgm A {color:black; text-decoration:none;}
+DIV.pgm A:hover {color:red;}
+
+/* The actual linked Variation moves (always in 'pc' class) */
+DIV.pgm .pc A, DIV.pgm SPAN.pc A {color:green;}
+DIV.pgm .pc A:hover, DIV.pgm SPAN.pc A:hover {color:red;}
+DIV.pgm SPAN.pc2 A {font-style:italic;}
+DIV.pgm SPAN.pc3 A {font-style:normal; color:green;}
+
+/* Palview uses EM Html Tag to surround variation moves when movelinks are NOT used. */
+
+DIV.pgm .pc EM {color:green; font-style:normal;}
+DIV.pgm .pc2 EM {font-style:italic;}
+
+/* Palview Game Intro (Special case where a comment {...} appears before an actual game move. The comment is treated as a game intro.) */
+
+.pintro {text-indent:1em; text-align: justify; font-family: Verdana, Arial, sans-serif; font-size: 10pt; font-weight: normal;}
+
+/* Palview Commentary (including Variation Sequences) */
+
+.pc, .pc2 {text-indent:1em; text-align: justify; font-family: Verdana, Arial, sans-serif; font-size: 10pt; font-weight: normal; color:black;} 
+
+/* Palview Player Names (PGN Tags White & Black) */
+
+.pplay {font-family: Verdana, Arial, sans-serif; font-size: 11pt; font-weight: bold; color: black; font-style : italic;}
+
+/* Palview Player Title (PGN Tag) */
+
+.ptitle {font-family: Verdana, Arial, sans-serif; font-size: 12pt; font-style: italic; font-weight: normal; color: black;}
+
+/* Palview Player Elo Rating (PGN Tag) */
+
+.pelo {font-family: Verdana, Arial, sans-serif; font-size: 10pt; color: black;}
+
+/* Palview ECO Code (PGN Tag) */
+
+.peco {font-family: Verdana, Arial, sans-serif; font-size: 10pt; font-style: italic; text-align:right; font-weight: bold;}
+
+/* Palview Event (PGN Tags Event & Site & Date & Round) */
+
+.pevent {text-align: center; font-family: Verdana, Arial, sans-serif; font-size: 11pt; font-style : italic;}
+
+/* Palview Opening -- PGN Tags: Opening, Variation, & Subvariation */
+
+.popen {font-family: Verdana, sans-serif; font-size: 10pt; font-style: italic; text-align: left; font-weight:bold; cursor:help;}
+
+/* Palview Annotator */
+/* had to remove italic from below otherwise IE places a horz-bar */
+
+.panno {font-family: Verdana, Arial, sans-serif; font-size: 12pt; font-style: normal; font-weight: bold; color: black;} /* italic */
+
+/* Palview Moves -- for the actual game moves */
+
+.pm {text-indent: 0em; text-align: justify; font-family: Verdana, Arial, sans-serif; font-size: 10pt; font-weight: bold; color:black;}
+
+/* Palview Clock -- for the DGT clock times in Live Games */
+
+.pclock {font-family: Verdana, Arial, sans-serif; font-size: 10pt; color: black;}
+
+/* Figurine -- Used to Transform Commentary 'moves' to Figs */
+
+.pf {font-family: LinaresFigurine, ZurichFigurine, Zurich New, HastingsFigurine, Verdana; font-style: normal;}
+
+/* Board Caption */
+
+.pt {text-align: center; font-family: Arial, Verdana, serif; font-size: 12pt; font-weight: bold; color: black; white-space:pre;}
+
+/* Borders -- pgob is 'Palview Game Outer Border';
+              pgbb is 'Palview Game Board Border';
+              pgib is 'Palview Game Infobox Border'; */
+
+/* border-style types are: solid, double, ridge, etc. */
+ 
+.pgbb {border-style:double; border-color:black; border-width:4px;  padding:0;}
+.pgib {border-style:ridge; border-color:black; border-width:2px; background-color:white;}
+.pgob {border-style:double; border-color:black; border-width:3px; background-color:white;}
+
+/* next class property places a 'help' cursor over the chess symbols */
+
+DIV.pgm IMG {cursor:help;}
+
+/* Palview [%palview div [,name]] Game Quote */
+
+DIV.pgq {margin:10px; padding:4pt; text-align: justify; background-color:#FFFFEC; border-style:solid; border-color:black; border-width:2px;}
+
+/* class for Inline Annotator [%anno name] */
+
+.ianno {font-style: italic; background-color:floralwhite;}
+
